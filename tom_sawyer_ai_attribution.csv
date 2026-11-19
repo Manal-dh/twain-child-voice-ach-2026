@@ -1,0 +1,796 @@
+Passage ID,Dialogue,AI speaker,Evidence,Confidence
+Tom_Q0001,Tom!,Aunt Polly,"The narrative describes an old lady looking for Tom and expressing her frustration about his absence, indicating that she is calling for him. The context suggests she is searching for him and is likely to be the one calling his name.",high
+Tom_Q0002,TOM!,Aunt Polly,The narrative describes an old lady looking for Tom and expressing her frustration about his absence. The dialogue 'TOM!' is consistent with her character as she is searching for him and calling out his name in a loud voice.,high
+Tom_Q0003,"What’s gone with that boy, I wonder? You TOM!",Aunt Polly,"The surrounding narrative describes an old lady looking for Tom and expressing frustration about his absence, which aligns with Aunt Polly's character as Tom's guardian.",high
+Tom_Q0005,"Well, I lay if I get hold of you I’ll—",Aunt Polly,"The narrative describes an old lady looking for Tom and expressing her frustration about his absence. The dialogue 'Well, I lay if I get hold of you I’ll—' fits her character as she is searching for Tom and is likely to express her feelings about his misbehavior.",high
+Tom_Q0006,I never did see the beat of that boy!,Aunt Polly,"The dialogue occurs in the context of Aunt Polly searching for Tom and expressing her frustration about his behavior, which aligns with her character's role as a guardian who often scolds him.",high
+Tom_Q0008,Y-o-u-u TOM!,Aunt Polly,"The dialogue 'Y-o-u-u TOM!' is shouted by a character who is looking for Tom and is described as standing in the open door, calling out to him. The surrounding context indicates that this character is Aunt Polly, who is searching for Tom and expressing her frustration.",high
+Tom_Q0009,"There! I might ’a’ thought of that closet. What you been doing in
+there?",Aunt Polly,"The dialogue follows Aunt Polly's actions and thoughts as she searches for Tom and reacts to finding him in the closet. The context indicates she is questioning Tom about his whereabouts and what he has been doing, which aligns with her character as a concerned guardian.",high
+Tom_Q0011,"Nothing! Look at your hands. And look at your mouth. What _is_ that
+truck?",Aunt Polly,"The dialogue follows Aunt Polly's observation of Tom's hands and mouth, indicating she is the one confronting him about the jam.",high
+Tom_Q0013,"Well, I know. It’s jam—that’s what it is. Forty times I’ve said if you
+didn’t let that jam alone I’d skin you. Hand me that switch.",Aunt Polly,"The dialogue refers to 'I’d skin you' and 'Hand me that switch,' which indicates a maternal authority figure scolding a boy, consistent with Aunt Polly's character as Tom's guardian.",high
+Tom_Q0017,"Tom, it was middling warm in school, warn’t it?",Aunt Polly,"The dialogue is framed by Aunt Polly's questions aimed at Tom, indicating she is the one speaking. The narrative context describes her as trying to trap Tom into revealing something, which aligns with the questions she asks about school and swimming.",high
+Tom_Q0019,"Powerful warm, warn’t it?",Aunt Polly,"The TARGET DIALOGUE follows Aunt Polly's question about the warmth in school, and her speech pattern matches her earlier dialogue. The phrase 'Powerful warm, warn’t it?' reflects her style of questioning Tom in a way that suggests she is trying to gauge his honesty.",high
+Tom_Q0021,"Didn’t you want to go in a-swimming, Tom?",Aunt Polly,"The dialogue is preceded by Aunt Polly's questions aimed at Tom, indicating she is the one speaking. The context shows her trying to trap Tom into revealing something, and the question about swimming aligns with her inquisitive nature.",high
+Tom_Q0023,"But you ain’t too warm now, though.",Aunt Polly,"The dialogue follows Aunt Polly's questioning of Tom about the warmth in school and his desire to go swimming, indicating she is the one speaking as she continues to probe him.",high
+Tom_Q0025,"Tom, you didn’t have to undo your shirt collar where I sewed it, to
+pump on your head, did you? Unbutton your jacket!",Aunt Polly,"The dialogue is a direct question about Tom's actions regarding his shirt collar, which aligns with Aunt Polly's role as a caretaker concerned about Tom's behavior. The context shows her trying to ascertain whether Tom has been dishonest about swimming, indicating her protective nature.",high
+Tom_Q0026,"Bother! Well, go ’long with you. I’d made sure you’d played hookey
+and been a-swimming. But I forgive ye, Tom. I reckon you’re a kind of a
+singed cat, as the saying is—better’n you look. _This_ time.",Aunt Polly,"The dialogue reflects Aunt Polly's character as she expresses her initial suspicion about Tom's activities ('I’d made sure you’d played hookey and been a-swimming') and then shifts to a forgiving tone, indicating her relationship with Tom. The context shows her as a caring yet strict guardian, which aligns with her character throughout the narrative.",high
+Tom_Q0027,"Well, now, if I didn’t think you sewed his collar with white thread,
+but it’s black.",Sidney,"Sidney's dialogue directly follows Aunt Polly's remarks about Tom's collar and is presented in a context where he is pointing out the color of the thread used, which indicates he is the one speaking.",high
+Tom_Q0028,"Why, I did sew it with white! Tom!",Tom Sawyer,"The dialogue follows a context where Tom is being discussed by another character, and the exclamation 'Tom!' indicates that the speaker is addressing him directly. Additionally, the narrative mentions Tom's actions and thoughts immediately after this dialogue, reinforcing that he is the one being referred to.",high
+Tom_Q0032,I’d like to see you try it.,Uncertain,"The dialogue does not provide clear attribution to a specific character, as both boys are engaged in a back-and-forth exchange without explicit identifiers in the TARGET DIALOGUE.",low
+Tom_Q0034,"No you can’t, either.",Tom Sawyer,"The dialogue reflects Tom's assertive and confrontational nature, as he is trying to establish dominance in the interaction. The context shows Tom challenging the other boy, which aligns with his character's tendency to boast and provoke.",high
+Tom_Q0036,No you can’t.,Tom Sawyer,"The dialogue preceding the TARGET DIALOGUE shows Tom asserting his ability to defeat the other boy in a fight, and the context of the conversation indicates that Tom is the one making bold claims about his strength and abilities.",high
+Tom_Q0038,You can’t.,Tom Sawyer,"The dialogue follows Tom's assertion of being able to 'lick' the other boy, and the context shows Tom's competitive nature and his attempts to assert dominance. The phrase 'You can’t.' aligns with Tom's character as he engages in a back-and-forth challenge.",high
+Tom_Q0040,Can’t!,Tom Sawyer,"The dialogue occurs in a confrontation between Tom and another boy, where Tom is asserting his ability to win a fight. The context shows Tom's bravado and competitive nature, which aligns with his character.",high
+Tom_Q0042,"’Tisn’t any of your business, maybe.",Tom Sawyer,"The dialogue occurs after Tom challenges the other boy and asks for his name. Tom's assertive and confrontational style is consistent with his character, as he tries to establish dominance in the interaction.",high
+Tom_Q0044,Well why don’t you?,Tom Sawyer,"The dialogue follows Tom's earlier assertion of being able to 'lick' the other boy, and the challenge to prove it aligns with Tom's character as someone who is boastful and eager to assert his dominance.",high
+Tom_Q0046,Much—much—_much_. There now.,Tom Sawyer,"The dialogue preceding the TARGET DIALOGUE shows Tom asserting his ability to fight and his confidence in challenging the other boy. The phrase 'Oh, you think you’re mighty smart, don’t you?' indicates a continuation of Tom's bravado and competitive nature.",high
+Tom_Q0048,Well why don’t you _do_ it? You _say_ you can do it.,Tom Sawyer,"The dialogue follows Tom's earlier statements about being able to fight and his challenge to the other boy. The context shows Tom is trying to provoke a reaction and assert his bravado, which aligns with his character's behavior throughout the narrative.",high
+Tom_Q0050,Oh yes—I’ve seen whole families in the same fix.,Uncertain,"The TARGET DIALOGUE does not provide clear attribution to a specific character, as the surrounding dialogue consists of back-and-forth exchanges without definitive identifiers for the speaker of that line.",low
+Tom_Q0052,"You can lump that hat if you don’t like it. I dare you to knock it
+off—and anybody that’ll take a dare will suck eggs.",Uncertain,"The dialogue does not provide clear attribution to a specific character, as both characters are engaged in a back-and-forth exchange without explicit identifiers for the speaker of the TARGET DIALOGUE.",low
+Tom_Q0054,You’re another.,Tom Sawyer,"The dialogue preceding the TARGET DIALOGUE shows Tom engaging in a back-and-forth argument with another character, where he is assertive and confrontational. The phrase 'You’re another' fits Tom's character as he often responds to taunts with clever retorts.",high
+Tom_Q0056,Aw—take a walk!,Uncertain,"The dialogue does not provide clear attribution to a specific character, as both characters are engaged in a back-and-forth exchange without explicit identifiers for the speaker of the TARGET DIALOGUE.",low
+Tom_Q0058,"Oh, of _course_ you will.",Uncertain,"The TARGET DIALOGUE 'Oh, of _course_ you will.' is not clearly attributed to a specific character in the surrounding context. The dialogue occurs amidst a back-and-forth exchange between two characters, but the speaker is not explicitly identified.",low
+Tom_Q0060,"Well why don’t you _do_ it then? What do you keep _saying_ you will
+for? Why don’t you _do_ it? It’s because you’re afraid.",Uncertain,"The dialogue does not provide clear attribution to a specific character, as both characters are engaged in a back-and-forth exchange and the surrounding context does not specify who is speaking at that moment.",low
+Tom_Q0062,You are.,Tom Sawyer,"The dialogue occurs in a confrontation between two boys, and Tom is the one who is asserting that the other is afraid, which aligns with his character's tendency to provoke and challenge others.",high
+Tom_Q0064,You are.,Tom Sawyer,"The dialogue preceding the TARGET DIALOGUE shows a back-and-forth argument between two characters, with Tom asserting he is not afraid. The phrase 'You are.' is a direct response to the accusation of fear, which aligns with Tom's character as he often engages in bravado and defiance.",high
+Tom_Q0066,Go away yourself!,Uncertain,"The dialogue does not provide clear attribution to a specific character, as both characters are engaged in a confrontation and the speaker of 'Go away yourself!' is not explicitly identified in the surrounding context.",low
+Tom_Q0068,I won’t either.,Uncertain,"The dialogue does not provide clear attribution to a specific character, as both characters are engaged in a back-and-forth exchange and the context does not specify who says 'I won’t either.'",low
+Tom_Q0070,"What do I care for your big brother? I’ve got a brother that’s bigger
+than he is—and what’s more, he can throw him over that fence, too.",Uncertain,"The dialogue does not provide clear attribution to a specific character, as both boys are engaged in a confrontation and the narrative does not specify who is speaking at that moment.",low
+Tom_Q0072,_Your_ saying so don’t make it so.,Uncertain,"The dialogue occurs in a heated exchange between two boys, but the specific speaker of the TARGET DIALOGUE is not clearly identified in the surrounding context. Both characters are engaged in a confrontation, and the dialogue does not provide enough distinct clues to attribute it definitively to either Tom or the new boy.",low
+Tom_Q0074,"Now you said you’d do it, now let’s see you do it.",the new boy,"The new boy responds to Tom's dare and challenges him by saying, 'Now you said you’d do it, now let’s see you do it,' which indicates he is the one speaking in the TARGET DIALOGUE.",high
+Tom_Q0076,"Well, you _said_ you’d do it—why don’t you do it?",the new boy,"The new boy challenges Tom's bravado by questioning why he doesn't follow through on his threat, indicating he is the one responding to Tom's dare.",high
+Tom_Q0080,’Nuff!,new boy,"The new boy is described as struggling and crying mainly from rage, and after Tom's insistence to 'Holler ’nuff!', the new boy finally manages to get out a smothered response, which is the TARGET DIALOGUE '’Nuff!'. This indicates he is the one speaking in that moment.",high
+Tom_Q0082,next time he caught him out.,Uncertain,"The TARGET DIALOGUE does not contain any direct attribution or context that clearly identifies the speaker. The surrounding narrative focuses on Tom and the new boy, but does not specify who is speaking the line about 'next time he caught him out.'",low
+Tom_Q0086,"Can’t, Mars Tom. Ole missis, she tole me I got to go an’ git dis water
+an’ not stop foolin’ roun’ wid anybody. She say she spec’ Mars Tom gwine
+to ax me to whitewash, an’ so she tole me go ’long an’ ’tend to my own
+business—she ’lowed _she’d_ ’tend to de whitewashin’.",Jim,"The dialogue includes phrases like 'Ole missis, she tole me I got to go an’ git dis water' and 'she’d take an’ tar de head off’n me,' which indicate that the speaker is Jim, as he refers to 'Ole missis' and uses dialect consistent with his character.",high
+Tom_Q0088,"Oh, I dasn’t, Mars Tom. Ole missis she’d take an’ tar de head off’n me.
+’Deed she would.",Jim,"The dialogue expresses Jim's fear of the 'ole missis' and his reluctance to disobey her, which aligns with his character as portrayed in the surrounding narrative. He refers to Tom as 'Mars Tom' and shows concern about the consequences of not following the missis's orders.",high
+Tom_Q0091,"My! Dat’s a mighty gay marvel, I tell you! But Mars Tom I’s powerful
+’fraid ole missis—",Jim,"The dialogue expresses Jim's fear of 'ole missis' and his excitement about the 'mighty gay marvel,' which aligns with Jim's character as he is depicted as cautious and easily tempted by Tom's offers.",high
+Tom_Q0093,"Stop her, sir! Ting-a-ling-ling!",Ben,"The narrative describes Ben's actions as he personates a steamboat, giving commands and executing them. The TARGET DIALOGUE fits with his role as he imagines himself as the captain of the steamboat, making commands like 'Stop her, sir!' which aligns with his playful imitation of a steamboat captain.",high
+Tom_Q0094,Ship up to back! Ting-a-ling-ling!,Tom Sawyer,"The TARGET DIALOGUE is part of Tom's imaginative play as he personates a steamboat captain, which is consistent with his character's actions and dialogue in the surrounding narrative. The phrases 'Ship up to back!' and 'Ting-a-ling-ling!' align with his earlier commands as he pretends to operate the steamboat.",high
+Tom_Q0095,"Set her back on the stabboard! Ting-a-ling-ling! Chow! ch-chow-wow!
+Chow!",Tom Sawyer,"The TARGET DIALOGUE is part of Tom's imaginative play where he is personating a steamboat captain, which aligns with his character's tendency to engage in elaborate fantasies and adventures. The surrounding narrative describes him as embodying the role of a captain, giving commands and executing them, which supports that he is the speaker.",high
+Tom_Q0096,Let her go back on the labboard! Ting-a-ling-ling! Chow-ch-chow-chow!,Uncertain,"The TARGET DIALOGUE continues the steamboat persona established in the surrounding narrative, but it is unclear who is specifically speaking at this moment as no character is named directly in the dialogue.",low
+Tom_Q0097,"Stop the stabboard! Ting-a-ling-ling! Stop the labboard! Come ahead on
+the stabboard! Stop her! Let your outside turn over slow!
+Ting-a-ling-ling! Chow-ow-ow! Get out that head-line! _lively_ now!
+Come—out with your spring-line—what’re you about there! Take a turn
+round that stump with the bight of it! Stand by that stage, now—let her
+go! Done with the engines, sir! Ting-a-ling-ling! SH’T! S’H’T! SH’T!",Uncertain,"The TARGET DIALOGUE consists of commands and nautical terminology that could belong to a character imagining themselves as a captain, but there is no clear attribution to a specific character in the provided context.",low
+Tom_Q0098,"_Hi-Yi! You’re_ up a stump, ain’t you!",Ben,"The dialogue follows Ben's previous line where he engages Tom in conversation about swimming and working, indicating that he is the one speaking to Tom.",high
+Tom_Q0099,"Hello, old chap, you got to work, hey?",Ben,"The dialogue follows Ben's previous line where he engages Tom about his work, and the context indicates that Ben is trying to entice Tom to join him in swimming, suggesting a playful interaction.",high
+Tom_Q0101,"Say—I’m going in a-swimming, I am. Don’t you wish you could? But of
+course you’d druther _work_—wouldn’t you? Course you would!",Ben,"The TARGET DIALOGUE is a playful taunt directed at Tom, asking if he wishes he could go swimming instead of working. This aligns with Ben's character as he is trying to distract Tom from his task and is already established as the one engaging Tom in conversation about work.",high
+Tom_Q0103,"Why, ain’t _that_ work?",Ben,"The dialogue occurs after Ben has been trying to persuade Tom to join him in swimming, and he questions Tom's perception of work. The phrase 'Why, ain’t _that_ work?' is a direct response to Tom's earlier question about what he calls work, indicating that Ben is the one speaking.",high
+Tom_Q0105,"Oh come, now, you don’t mean to let on that you _like_ it?",Tom Sawyer,"The dialogue follows Tom's previous thoughts about whitewashing and his playful manipulation of Ben's interest in the task, indicating that he is the one responding to Ben's question about liking the work.",high
+Tom_Q0107,"Say, Tom, let _me_ whitewash a little.",Ben,"The dialogue is a request for Tom to let him whitewash, which follows Ben's growing interest in the task as he watches Tom. The context indicates that Ben is trying to persuade Tom to let him take a turn.",high
+Tom_Q0109,"No—is that so? Oh come, now—lemme just try. Only just a little—I’d let
+_you_, if you was me, Tom.",Ben,"The dialogue follows Tom's refusal to let Ben whitewash the fence, and Ben responds with a plea to try, indicating he is the one speaking. The use of 'lemme just try' and 'I’d let you, if you was me, Tom' suggests he is directly addressing Tom and trying to persuade him.",high
+Tom_Q0111,"Oh, shucks, I’ll be just as careful. Now lemme try. Say—I’ll give you
+the core of my apple.",Ben Rogers,"The dialogue is a continuation of Ben's attempts to persuade Tom to let him try whitewashing the fence, as indicated by his offer of the core of his apple and his insistence on being careful. The context shows that Ben is trying to negotiate with Tom, which aligns with his character's playful and persuasive nature.",high
+Tom_Q0113,I’ll give you _all_ of it!,Ben Rogers,"The dialogue occurs in a context where Ben is trying to persuade Tom to let him paint the fence, and he offers to give Tom the core of his apple, which indicates he is trying to negotiate. The phrase 'I’ll give you _all_ of it!' is a continuation of his bargaining, showing his eagerness to convince Tom.",high
+Tom_Q0115,"What, a’ready? How much have you done?",Aunt Polly,"The dialogue follows Aunt Polly's inquiry about Tom's work, and her response indicates she is the one questioning him about how much he has done.",high
+Tom_Q0117,"Tom, don’t lie to me—I can’t bear it.",Aunt Polly,"The dialogue occurs in a context where Aunt Polly is questioning Tom about his honesty regarding his chores. The phrase 'Tom, don’t lie to me—I can’t bear it' reflects her direct address to Tom, indicating she is the speaker.",high
+Tom_Q0119,"Well, I never! There’s no getting round it, you can work when you’re a
+mind to, Tom.",Aunt Polly,"The dialogue follows Aunt Polly's astonishment at Tom's work and her subsequent compliment, indicating she is the one speaking in response to Tom's accomplishment.",high
+Tom_Q0120,"But it’s
+powerful seldom you’re a mind to, I’m bound to say. Well, go ’long and
+play; but mind you get back some time in a week, or I’ll tan you.",Aunt Polly,The dialogue follows Aunt Polly's astonishment at Tom's work and her previous statements about his tendency to avoid work. The phrase 'I’m bound to say' suggests a maternal tone consistent with Aunt Polly's character.,high
+Tom_Q0127,"Well, Sid don’t torment a body the way you do. You’d be always into
+that sugar if I warn’t watching you.",Aunt Polly,"The dialogue reflects Aunt Polly's response to Tom's behavior, indicating her frustration with his antics compared to Sid's. The context shows that she is scolding Tom for his mischief, which aligns with her character as a protective and disciplinary figure in Tom's life.",high
+Tom_Q0131,"Umf! Well, you didn’t get a lick amiss, I reckon. You been into some
+other audacious mischief when I wasn’t around, like enough.",Aunt Polly,"The dialogue follows Aunt Polly's reaction to Tom's accusation, where she expresses her belief that Tom has been involved in other mischief. The context indicates that she is the one responding to Tom's plea, and her tone reflects her authority as his guardian.",high
+Tom_Q0135,Poor,Mary,"Mary is the one prompting Tom with the correct words during his recitation of the verses, as indicated by her interjections and encouragements like 'In spirit—' and 'Oh, Tom, you poor thick-headed thing, I’m not teasing you.'",high
+Tom_Q0137,In spirit—,Tom Sawyer,"The dialogue occurs during Tom's attempt to recite verses from the Sermon on the Mount, and he is the one struggling to remember the lines, asking Mary for help. The context indicates that he is the one speaking as he tries to recall the verses.",high
+Tom_Q0139,_Theirs_—,Tom Sawyer,"The dialogue occurs during Tom's struggle to recite verses from the Sermon on the Mount, and he is the one trying to remember the lines. The context shows he is frustrated and asking Mary for help, indicating he is the speaker of the TARGET DIALOGUE.",high
+Tom_Q0141,Sh—,Mary,"The dialogue follows Tom's struggle with his recitation, and Mary is the one encouraging him and providing hints. She responds to Tom's confusion and offers support, indicating she is the speaker of the TARGET DIALOGUE.",high
+Tom_Q0143,"S, H, A—",Tom Sawyer,"The dialogue reflects Tom's struggle with the lesson and his frustration, which aligns with his character as depicted in the surrounding narrative. He is trying to recite the verses and is confused, asking Mary for help, which indicates he is the one speaking.",high
+Tom_Q0145,_Shall_!,Tom Sawyer,"The dialogue 'Shall!' is a response to Mary’s prompting during his recitation of the Beatitudes, indicating that he is the one struggling to remember the verses and is directly engaged in the lesson with her.",high
+Tom_Q0147,"Oh, Tom, you poor thick-headed thing, I’m not teasing you. I wouldn’t
+do that. You must go and learn it again. Don’t you be discouraged, Tom,
+you’ll manage it—and if you do, I’ll give you something ever so nice.
+There, now, that’s a good boy.",Mary,"The dialogue is directed towards Tom, encouraging him and offering a reward for his efforts, which aligns with Mary's supportive role in the narrative.",high
+Tom_Q0149,"Never you mind, Tom. You know if I say it’s nice, it is nice.",Mary,"The dialogue is directed towards Tom, encouraging him and assuring him that if she says something is nice, it is indeed nice. This aligns with Mary's character as a supportive figure in Tom's life, particularly in the context of helping him with his studies.",high
+Tom_Q0154,"Now ain’t you ashamed, Tom. You mustn’t be so bad. Water won’t hurt
+you.",Mary,"Mary is the one who removes the towel from Tom and admonishes him, indicating her role as the speaker of the dialogue. The context shows her concern for Tom's cleanliness and behavior.",high
+Tom_Q0157,"Please, Tom—that’s a good boy.",Mary,"The dialogue is a persuasive plea directed at Tom, who is being made to wear shoes and is expressing his displeasure. The context indicates that Mary is the one trying to encourage Tom to comply with the situation, as she is the one who has been dressing him and is concerned about his attitude.",high
+Tom_Q0159,Yes.,Billy,"The dialogue preceding the TARGET DIALOGUE indicates that Tom is speaking to a comrade named Billy, who is asked if he has a 'yaller ticket.' The response 'Yes' logically follows as Billy's answer to Tom's question.",high
+Tom_Q0161,What’ll you give?,Billy,"The dialogue occurs in a trading context where Tom is negotiating with a comrade named Billy for a yellow ticket. The phrase 'What’ll you give?' is a response to Tom's inquiry about the ticket, indicating that it is Billy who is speaking.",high
+Tom_Q0163,Less see ’em.,Tom Sawyer,"The dialogue occurs in the context of Tom trading tickets with a comrade, and the phrase 'Less see ’em' suggests a casual, youthful tone consistent with Tom's character as he engages in playful negotiations.",high
+Tom_Q0164,Ouch!,Uncertain,"The dialogue 'Ouch!' is a reaction to being hurt, likely from the pin that Tom stuck in another boy. However, the text does not specify which boy is speaking this line, making it unclear.",low
+Tom_Q0166,"Now, children, I want you all to sit up just as straight and pretty as
+you can and give me all your attention for a minute or two. There—that
+is it. That is the way good little boys and girls should do. I see one
+little girl who is looking out of the window—I am afraid she thinks I
+am out there somewhere—perhaps up in one of the trees making a speech
+to the little birds. [Applausive titter.] I want to tell you how good it
+makes me feel to see so many bright, clean little faces assembled in a
+place like this, learning to do right and be good.",Mr. Walters,"The narrative describes Mr. Walters as having a sincere and earnest demeanor, and it mentions that he begins his speech with a specific intonation that is characteristic of his Sunday-school voice. The TARGET DIALOGUE reflects his role as a teacher addressing children, which aligns with the context provided.",high
+Tom_Q0177,"Oh, no, not Tom—it is—",Judge,"The dialogue follows the Judge's questioning of Tom about his name, and the context indicates that the Judge is the one prompting Tom to provide his full name, which he does after the Judge's initial inquiry.",high
+Tom_Q0179,"Ah, that’s it. I thought there was more to it, maybe. That’s very well.
+But you’ve another one I daresay, and you’ll tell it to me, won’t you?",Judge,"The dialogue follows the Judge's praise of Tom and his encouragement for Tom to share his full name, indicating that the speaker is the Judge addressing Tom directly.",high
+Tom_Q0180,"Tell the gentleman your other name, Thomas,",Walters,"The dialogue is directed at Tom, instructing him to tell the gentleman his other name, which aligns with Walters' role as a figure guiding Tom in the presence of the Judge.",high
+Tom_Q0181,"and say
+sir. You mustn’t forget your manners.",Walters,"The dialogue is preceded by 'said Walters,' indicating that he is the one instructing Tom to remember his manners.",high
+Tom_Q0183,"That’s it! That’s a good boy. Fine boy. Fine, manly little fellow. Two
+thousand verses is a great many—very, very great many. And you never can
+be sorry for the trouble you took to learn them; for knowledge is worth
+more than anything there is in the world; it’s what makes great men
+and good men; you’ll be a great man and a good man yourself, some
+day, Thomas, and then you’ll look back and say, It’s all owing to the
+precious Sunday-school privileges of my boyhood—it’s all owing to
+my dear teachers that taught me to learn—it’s all owing to the good
+superintendent, who encouraged me, and watched over me, and gave me a
+beautiful Bible—a splendid elegant Bible—to keep and have it all for my
+own, always—it’s all owing to right bringing up! That is what you will
+say, Thomas—and you wouldn’t take any money for those two thousand
+verses—no indeed you wouldn’t. And now you wouldn’t mind telling me and
+this lady some of the things you’ve learned—no, I know you wouldn’t—for
+we are proud of little boys that learn. Now, no doubt you know the names
+of all the twelve disciples. Won’t you tell us the names of the first
+two that were appointed?",Judge,"The TARGET DIALOGUE is a speech praising Thomas for his accomplishments and encouraging him to share what he has learned, which aligns with the Judge's role as a figure of authority and encouragement in this context. The Judge is addressing Thomas directly and expressing pride in his achievements.",high
+Tom_Q0184,"Answer the gentleman, Thomas—don’t be afraid.",Mr. Walters,"The dialogue occurs after Mr. Walters encourages Tom to answer the question about the disciples, indicating he is the one prompting Tom to respond.",high
+Tom_Q0185,"Now I know you’ll tell me,",Tom Sawyer,"Tom is described as looking sheepish and blushing when asked about the names of the disciples, indicating he is the one being questioned. The dialogue follows his hesitation, suggesting he is the one who responds with 'Now I know you’ll tell me,' before the incorrect answer is given.",high
+Tom_Q0186,"The names of the first two
+disciples were—",Tom Sawyer,"Tom is the one being asked to answer the question about the disciples, and the dialogue follows his hesitation before he responds with the incorrect names, indicating he is the speaker.",high
+Tom_Q0193,Amen,Uncertain,"The dialogue 'Amen' is a common response in a church setting, and while it is likely spoken by someone in the congregation, the specific speaker is not identified in the surrounding narrative.",low
+Tom_Q0198,"Here, Tom! TOM! What is the matter,
+Tom?",Sid,"The dialogue is directed towards Tom, expressing concern and asking about his condition. Sid is the one who shakes Tom and looks at him anxiously, indicating he is the speaker of the TARGET DIALOGUE.",high
+Tom_Q0200,"Why, what’s the matter, Tom? I must call auntie.",Sid,"Sid expresses concern for Tom's well-being and insists on calling Aunt Polly, indicating he is worried about Tom's condition. This aligns with Sid's character as a caring brother, especially in moments of distress.",high
+Tom_Q0202,"But I must! _Don’t_ groan so, Tom, it’s awful. How long you been this
+way?",Sid,"Sid expresses concern for Tom's well-being, asking how long he has been groaning and stating that it is awful, which aligns with his anxious and caring demeanor towards Tom in the context.",high
+Tom_Q0204,"Tom, why didn’t you wake me sooner? Oh, Tom, _don’t!_ It makes my flesh
+crawl to hear you. Tom, what is the matter?",Sid,"The dialogue expresses concern for Tom's well-being and includes phrases like 'Oh, Tom, _don’t!_ It makes my flesh crawl to hear you,' which indicates a worried and anxious tone typical of Sid's character as he reacts to Tom's groaning.",high
+Tom_Q0206,"Oh, Tom, you ain’t dying, are you? Don’t, Tom—oh, don’t. Maybe—",Sid,"Sid is the one who is anxiously concerned about Tom's condition, asking if he is dying and pleading with him not to die, as indicated by his repeated calls to Tom and his emotional response.",high
+Tom_Q0208,"Oh, Aunt Polly, come! Tom’s dying!",Sid,"Sid is the one who runs downstairs to call Aunt Polly, indicating urgency about Tom's condition, as shown in the dialogue where he says, 'Oh, Aunt Polly, come! Tom’s dying!'",high
+Tom_Q0209,Dying!,Sid,"Sid is the one who runs downstairs to tell Aunt Polly that Tom is dying, indicating his concern for Tom's condition.",high
+Tom_Q0210,Yes’m. Don’t wait—come quick!,Aunt Polly,The dialogue 'Yes’m. Don’t wait—come quick!' is a response to Sid's call for Aunt Polly to come quickly because Tom is dying. The context indicates that Aunt Polly is the one being addressed and is reacting to the situation.,high
+Tom_Q0211,Rubbage! I don’t believe it!,Aunt Polly,"The dialogue 'Rubbage! I don’t believe it!' is a reaction to Sid's claim about Tom dying, indicating disbelief and concern, which aligns with Aunt Polly's character as a caring guardian.",high
+Tom_Q0212,"You, Tom! Tom, what’s the matter with you?",Aunt Polly,"The dialogue is directed towards Tom, expressing concern and asking about his condition, which aligns with Aunt Polly's role as his guardian.",high
+Tom_Q0214,"What’s the matter with you—what is the matter with you, child?",Aunt Polly,"The dialogue is a direct response to Tom's groaning and concern about his health, indicating a maternal figure who is worried about a child, which aligns with Aunt Polly's role in the story.",high
+Tom_Q0216,"Tom, what a turn you did give me. Now you shut up that nonsense and
+climb out of this.",Aunt Polly,"The dialogue follows Aunt Polly's reaction to Tom's earlier groans and her concern for him, indicating she is the one addressing Tom directly about his nonsense and instructing him to climb out of bed.",high
+Tom_Q0218,"Your tooth, indeed! What’s the matter with your tooth?",Aunt Polly,"The dialogue follows Aunt Polly's concern for Tom's health and her response to his complaints about his tooth. The context shows her as the one addressing Tom about his tooth, indicating she is the speaker of the TARGET DIALOGUE.",high
+Tom_Q0220,"There, there, now, don’t begin that groaning again. Open your mouth.
+Well—your tooth _is_ loose, but you’re not going to die about that.
+Mary, get me a silk thread, and a chunk of fire out of the kitchen.",Aunt Polly,"The dialogue follows Aunt Polly's previous lines where she addresses Tom about his tooth and instructs Mary to get a silk thread and fire, indicating she is the one preparing to pull the tooth.",high
+Tom_Q0222,"Oh, you don’t, don’t you? So all this row was because you thought you’d
+get to stay home from school and go a-fishing? Tom, Tom, I love you so,
+and you seem to try every way you can to break my old heart with your
+outrageousness.",Aunt Polly,"The dialogue expresses a mother's frustration and affection towards Tom, indicating a close familial relationship. The phrase 'Tom, Tom, I love you so' suggests a maternal tone, consistent with Aunt Polly's character as Tom's guardian.",high
+Tom_Q0223,Sour grapes!,Uncertain,"The dialogue 'Sour grapes!' is not directly attributed to any character in the surrounding narrative, and there is no clear indication of who is speaking it.",low
+Tom_Q0289,Thomas Sawyer!,Uncertain,"The TARGET DIALOGUE is a call from the master, but the surrounding context does not provide enough information to definitively attribute it to a specific character.",low
+Tom_Q0291,"Come up here. Now, sir, why are you late again, as usual?",the master,"The master is the one addressing Tom Sawyer directly, asking him why he is late, which indicates that he is the speaker of the TARGET DIALOGUE.",high
+Tom_Q0293,You—you did what?,the master,"The dialogue follows the master's inquiry about Tom's tardiness, and the response 'You—you did what?' indicates a reaction from the authority figure, who is shocked by Tom's admission of talking to Huckleberry Finn.",high
+Tom_Q0295,"Thomas Sawyer, this is the most astounding confession I have ever
+listened to. No mere ferule will answer for this offence. Take off your
+jacket.",the master,"The dialogue is directed at Tom Sawyer, and the context indicates that it is the master who is responding to Tom's confession about talking to Huckleberry Finn. The phrase 'Take off your jacket' suggests a disciplinary action typical of a schoolmaster addressing a student.",high
+Tom_Q0296,"Now, sir, go and sit with the girls! And let this be a warning to you.",the master,"The dialogue follows the master's reprimand of Tom Sawyer for talking to Huckleberry Finn, and the command to 'go and sit with the girls' is consistent with the authority of the master in the school setting.",high
+Tom_Q0328,"Tom, you let him alone.",Joe Harper,"Joe is the one who is angry and insists that Tom let the tick alone, stating 'No, sir, it ain’t fair; you just let him alone.' This indicates he is protective of the tick and is asserting his claim over it.",high
+Tom_Q0330,"No, sir, it ain’t fair; you just let him alone.",Joe Harper,"The dialogue immediately follows Joe's previous statement where he insists that Tom should let the tick alone, indicating that he is protective of the tick and asserting his claim over it.",high
+Tom_Q0332,"Let him alone, I tell you.",Joe Harper,"The dialogue preceding the TARGET DIALOGUE shows Joe expressing anger at Tom for trying to interfere with the tick, and he insists that Tom let it alone. The phrase 'Let him alone, I tell you' aligns with Joe's character and his protective stance over the tick, which he claims is on his side of the line.",high
+Tom_Q0334,You shall—he’s on my side of the line.,Tom Sawyer,"The dialogue occurs in a heated exchange between Tom and Joe about the tick, where Tom insists on his right to touch the tick, claiming it as his own. The context shows Tom's defiance and determination to assert his ownership, which aligns with his character.",high
+Tom_Q0336,"I don’t care whose tick he is—he’s on my side of the line, and you
+sha’n’t touch him.",Tom Sawyer,"The dialogue expresses a defiant attitude towards Joe Harper, asserting ownership over the tick and refusing to let Joe touch it. This aligns with Tom's character, who is known for his rebellious and competitive nature, especially in the context of their ongoing rivalry.",high
+Tom_Q0395,Guy of Guisborne wants no man’s pass. Who art thou that—that—,Joe Harper,"The dialogue begins with 'Guy of Guisborne wants no man’s pass,' which is a response to Tom's challenge. Since Tom is prompting the dialogue and they are acting out a scene together, it indicates that Joe Harper is the one speaking as he takes on the role of Guy of Guisborne.",high
+Tom_Q0398,Who art thou that dares to hold such language?,Tom Sawyer,"The dialogue is part of a playful exchange where Tom prompts Joe Harper to continue their role-play as Robin Hood and his adversary. The phrase 'Who art thou that dares to hold such language?' is a continuation of Tom's earlier line, indicating he is the one speaking in character as Robin Hood.",high
+Tom_Q0400,"Then art thou indeed that famous outlaw? Right gladly will I dispute
+with thee the passes of the merry wood. Have at thee!",Joe Harper,"The dialogue follows Tom's prompt where he is playing the role of Robin Hood, and Joe responds as Guy of Guisborne, indicating he is engaging in the role-play as well. The phrase 'Then art thou indeed that famous outlaw?' aligns with Joe's character responding to Tom's Robin Hood.",high
+Tom_Q0405,"I sha’n’t! Why don’t you fall yourself? You’re getting the worst of
+it.",Joe,"The dialogue reflects Joe's response to Tom's challenge, indicating he is engaged in the playful combat and is aware of the situation, as he argues about the rules of their play. The context shows that Tom is referencing the book, while Joe counters with his own perspective on the fight.",high
+Tom_Q0407,"Now,",Tom Sawyer,"The dialogue references Tom's insistence on following the rules from the book, which aligns with his character's tendency to adhere to the narratives he enjoys. Additionally, the context shows Tom suggesting roles for Joe, indicating he is the one directing the play-acting.",high
+Tom_Q0408,"you got to let me kill _you_. That’s
+fair.",Joe,"The dialogue follows Tom's suggestion about roles in their play, and Joe responds with a proposal that aligns with the context of their playful combat. The phrase 'you got to let me kill _you_' indicates Joe's active participation in the game they are playing.",high
+Tom_Q0410,"Well, it’s blamed mean—that’s all.",Joe,"The dialogue follows a discussion between Tom and Joe about their roles in a play fight, where Joe expresses frustration about the fairness of the situation. The phrase 'Well, it’s blamed mean—that’s all' reflects Joe's reaction to Tom's insistence on adhering to the book's rules, indicating it is Joe who is speaking.",high
+Tom_Q0413,Scat! you devil!,Huckleberry Finn,"The context indicates that Tom Sawyer is sneaking out to meet Huck, who is waiting for him with a dead cat. The phrase 'Scat! you devil!' is likely Huck's reaction to something unexpected, fitting his character's rough and adventurous nature.",medium
+Tom_Q0447,"Here it is,",Doctor Robinson,"The dialogue 'Here it is,' is followed by the description of the owner of the voice holding the lantern and revealing the face of young Doctor Robinson, indicating he is the speaker.",high
+Tom_Q0448,"Hurry, men!",Injun Joe,"The context indicates that the men are engaged in a grave robbery, and the command 'Hurry, men!' suggests urgency and authority, which aligns with Injun Joe's character as a dominant figure in this scene.",medium
+Tom_Q0449,"the moon might come out at any
+moment.",Doctor Robinson,"The dialogue occurs immediately after Doctor Robinson urges the men to hurry, indicating he is concerned about the moon coming out, which aligns with his role in the scene as he is overseeing the grave digging.",high
+Tom_Q0450,"Now the cussed thing’s ready, Sawbones, and you’ll just out with
+another five, or here she stays.",Injun Joe,"The dialogue follows a description of Injun Joe's actions and his confrontation with the doctor, where he expresses his anger and desire for revenge, indicating that he is the one demanding payment.",high
+Tom_Q0452,"Look here, what does this mean?",Injun Joe,"The dialogue follows Injun Joe's earlier statement about getting even with the doctor, and the context indicates he is confronting the doctor about a past grievance.",high
+Tom_Q0453,"You required your
+pay in advance, and I’ve paid you.",the doctor,"The doctor is the one who is addressing the payment situation, indicating he has already paid for the service, which aligns with the context of the dialogue about payment.",high
+Tom_Q0455,"Five years ago you drove me away from
+your father’s kitchen one night, when I come to ask for something to
+eat, and you said I warn’t there for any good; and when I swore I’d get
+even with you if it took a hundred years, your father had me jailed for
+a vagrant. Did you think I’d forget? The Injun blood ain’t in me for
+nothing. And now I’ve _got_ you, and you got to _settle_, you know!",Injun Joe,"The dialogue references a past grievance involving the speaker being driven away from the doctor's father's kitchen and being jailed, which aligns with Injun Joe's character and motivations in the story.",high
+Tom_Q0456,"Here, now, don’t you hit my pard!",Potter,"Potter refers to the doctor as 'my pard,' indicating a close relationship and suggesting he is defending his friend against Injun Joe's aggression.",high
+Tom_Q0457,_That_ score is settled—damn you.,Injun Joe,"The dialogue follows a description of Injun Joe standing over the bodies and contemplating them, indicating that he is the one who has just committed the act and is expressing satisfaction with the outcome.",high
+Tom_Q0458,"Lord, how is this, Joe?",Potter,"The dialogue reflects Potter's confusion and desperation as he questions Joe about the events that transpired, indicating he is the one trying to understand what happened after the incident.",high
+Tom_Q0459,"It’s a dirty business,",Injun Joe,"The dialogue follows Injun Joe's earlier muttering about settling a score and his actions of robbing the body, indicating he is the one confronting Potter about the incident.",high
+Tom_Q0460,"What did you do it
+for?",Injun Joe,"The dialogue occurs in a tense moment where Injun Joe is confronting Potter about the murder, and the context indicates that Joe is the one questioning Potter about his actions.",high
+Tom_Q0461,I! I never done it!,Potter,"Potter expresses confusion and denial about his actions, saying 'I! I never done it!' which aligns with his character's state of mind after the incident.",high
+Tom_Q0462,Look here! That kind of talk won’t wash.,Joe,"The dialogue follows Joe's previous statement about the situation, and the tone and context suggest he is responding to Potter's confusion and denial.",high
+Tom_Q0463,"I thought I’d got sober. I’d no business to drink to-night. But it’s
+in my head yet—worse’n when we started here. I’m all in a muddle;
+can’t recollect anything of it, hardly. Tell me, Joe—_honest_, now,
+old feller—did I do it? Joe, I never meant to—’pon my soul and honor, I
+never meant to, Joe. Tell me how it was, Joe. Oh, it’s awful—and him so
+young and promising.",Potter,"The dialogue reflects Potter's confusion and regret after the incident, as he questions Joe about what happened and expresses his disbelief that he could have committed such an act. The narrative context indicates that Potter is the one who has just awakened and is trying to piece together the events that led to the situation he finds himself in.",high
+Tom_Q0464,"Why, you two was scuffling, and he fetched you one with the headboard
+and you fell flat; and then up you come, all reeling and staggering
+like, and snatched the knife and jammed it into him, just as he fetched
+you another awful clip—and here you’ve laid, as dead as a wedge til
+now.",Joe,"The dialogue describes an event that Joe recounts to Muff Potter, explaining how the altercation occurred and what happened to him. The use of 'you two was scuffling' indicates that Joe is narrating the events to Muff Potter, who is confused and seeking clarity.",high
+Tom_Q0465,"Oh, I didn’t know what I was a-doing. I wish I may die this minute if I
+did. It was all on account of the whiskey and the excitement, I reckon.
+I never used a weepon in my life before, Joe. I’ve fought, but never
+with weepons. They’ll all say that. Joe, don’t tell! Say you won’t tell,
+Joe—that’s a good feller. I always liked you, Joe, and stood up for you,
+too. Don’t you remember? You _won’t_ tell, _will_ you, Joe?",Muff Potter,"The dialogue expresses regret and confusion about a violent act committed while under the influence of alcohol, which aligns with Muff Potter's character as he is portrayed as a troubled man who has been drinking and is distressed about his actions.",high
+Tom_Q0466,"No, you’ve always been fair and square with me, Muff Potter, and I
+won’t go back on you. There, now, that’s as fair as a man can say.",Joe,"The dialogue indicates a sense of loyalty and fairness towards Muff Potter, which aligns with Joe's character as he reassures Potter that he won't betray him. The context shows Joe's compassionate nature in a tense situation.",high
+Tom_Q0467,"Oh, Joe, you’re an angel. I’ll bless you for this the longest day I
+live.",Muff Potter,"Muff Potter expresses gratitude to Joe for his support and pleads with him not to tell anyone about the incident, indicating a close relationship and emotional reliance on Joe.",high
+Tom_Q0468,"Come, now, that’s enough of that. This ain’t any time for blubbering.
+You be off yonder way and I’ll go this. Move, now, and don’t leave any
+tracks behind you.",Joe,"The dialogue follows a plea from Muff Potter to Joe not to tell about the incident, and Joe responds with a directive tone, indicating he is taking charge of the situation and telling Potter to leave. The context suggests Joe is trying to manage the aftermath of the crime.",high
+Tom_Q0469,"If he’s as much stunned with the lick and fuddled with the rum as he
+had the look of being, he won’t think of the knife till he’s gone so
+far he’ll be afraid to come back after it to such a place by
+himself—chicken-heart!",Uncertain,"The dialogue does not provide clear attribution to a specific character, and the surrounding narrative does not clarify who is speaking. The context involves a tense situation with Muff Potter and Joe, but the speaker of the TARGET DIALOGUE remains ambiguous.",low
+Tom_Q0535,Poor fellow!,Uncertain,"The dialogue 'Poor fellow!' is not directly attributed to any character in the surrounding narrative context, and multiple characters are present, making it unclear who is speaking.",low
+Tom_Q0536,Poor young fellow!,Uncertain,"The dialogue 'Poor young fellow!' is not directly attributed to any character in the surrounding narrative, and there is no clear indication of who is speaking at that moment.",low
+Tom_Q0537,"This ought to be a lesson to grave
+robbers!",Uncertain,"The dialogue occurs in a crowd setting where multiple voices are present, and there is no clear attribution to a specific character in the surrounding narrative.",low
+Tom_Q0538,Muff Potter’ll hang for this if they catch him!,Uncertain,"The dialogue occurs in a crowd context where multiple voices are present, and there is no clear attribution to a specific character in the surrounding narrative.",low
+Tom_Q0539,"It was a judgment; His hand is
+here.",the minister,"The dialogue follows a remark about the situation being a lesson for grave robbers, and the minister is the one who is speaking in this context, as indicated by the narrative mentioning him just before the TARGET DIALOGUE.",high
+Tom_Q0540,It’s him! it’s him! he’s coming himself!,Uncertain,"The dialogue occurs in a chaotic scene where multiple voices are reacting to Muff Potter's appearance, but there is no clear attribution to a specific character for the line 'It’s him! it’s him! he’s coming himself!'",low
+Tom_Q0541,Who? Who?,Uncertain,"The dialogue 'Who? Who?' is not attributed to any specific character in the surrounding narrative, and there is no clear indication of who is speaking at that moment.",low
+Tom_Q0542,Muff Potter!,Uncertain,"The dialogue 'Muff Potter!' is shouted in the context of a crowd reacting to the arrival of a character, but there is no clear attribution to a specific character in the surrounding narrative.",low
+Tom_Q0543,"Hallo, he’s stopped!—Look out, he’s turning! Don’t let him get away!",Uncertain,"The TARGET DIALOGUE occurs in a chaotic scene where multiple voices are shouting, and it is unclear who is specifically speaking. The surrounding narrative does not provide a clear attribution to a named character.",low
+Tom_Q0544,Infernal impudence!,Injun Joe,"The dialogue 'Infernal impudence!' is likely spoken by Injun Joe, as he is present in the scene and is characterized by a confrontational demeanor. The surrounding context indicates that he is involved in the unfolding drama and is likely to express disdain or contempt.",medium
+Tom_Q0545,"wanted to come and take a quiet
+look at his work, I reckon—didn’t expect any company.",Injun Joe,"The dialogue reflects a mocking tone and contextually fits Injun Joe's character, who is present in the scene and has a motive to taunt the situation regarding Muff Potter.",high
+Tom_Q0546,"I didn’t do it, friends,",Muff Potter,"The dialogue is preceded by a description of Muff Potter's emotional state, where he is depicted as haggard and fearful, and he later sobs and insists he didn't commit the crime, which aligns with the TARGET DIALOGUE.",high
+Tom_Q0547,"’pon my word and honor I never
+done it.",Muff Potter,"The dialogue is preceded by Muff Potter sobbing and expressing his innocence, stating 'I didn’t do it, friends,' which indicates he is the one speaking when he says '’pon my word and honor I never done it.'",high
+Tom_Q0548,Who’s accused you?,Injun Joe,"The dialogue follows Potter's plea and is directed towards him, indicating that Injun Joe is the one asking the question about the knife.",high
+Tom_Q0549,"Oh, Injun Joe, you promised me you’d never—",Potter,"Potter is the one who is addressing Injun Joe, expressing his distress and referencing a promise made to him, which aligns with his emotional state and the context of his accusation.",high
+Tom_Q0550,Is that your knife?,Injun Joe,"The dialogue occurs in a tense moment where Potter is being confronted about the murder, and Injun Joe is present. The phrase 'Is that your knife?' suggests an accusatory tone that aligns with Injun Joe's character, who is involved in the conflict surrounding Potter.",medium
+Tom_Q0551,Something told me ’t if I didn’t come back and get—,Uncertain,"The TARGET DIALOGUE is not clearly attributed to a specific character in the surrounding narrative context, as it lacks direct identification of the speaker before or after the dialogue.",low
+Tom_Q0552,"Tell ’em,
+Joe, tell ’em—it ain’t any use any more.",Potter,"Potter is in a state of despair and pleading for help, as indicated by his earlier statements of not having done it and his emotional breakdown. The TARGET DIALOGUE reflects his hopelessness and desire for someone to intervene on his behalf.",high
+Tom_Q0553,Why didn’t you leave? What did you want to come here for?,Uncertain,"The dialogue does not have a clear attribution to a specific character in the surrounding narrative. The context describes the reactions of Tom and Huck, as well as Potter's subsequent response, but does not specify who asked the question.",low
+Tom_Q0554,"I couldn’t help it—I couldn’t help it,",Potter,"The TARGET DIALOGUE is followed by Potter moaning and expressing his desire to run away but feeling compelled to stay, indicating that he is the one speaking.",high
+Tom_Q0555,"I wanted to
+run away, but I couldn’t seem to come anywhere but here.",Potter,"The TARGET DIALOGUE follows Potter's moaning about his inability to leave, indicating he is expressing his feelings of helplessness in the situation.",high
+Tom_Q0556,It was within three feet of Muff Potter when it done it.,Uncertain,"The dialogue does not provide clear attribution to a specific character, and the surrounding context does not identify who is speaking. The mention of Muff Potter and the context of the crowd suggests a tense atmosphere, but it does not clarify the speaker's identity.",low
+Tom_Q0559,"What you got on your mind,
+Tom?",Aunt Polly,"The dialogue occurs in a context where Aunt Polly is concerned about Tom's behavior and is speaking to him directly. The phrase 'What you got on your mind, Tom?' aligns with her role as a caretaker and her concern for Tom's well-being.",high
+Tom_Q0561,"And you do talk such stuff,",Sid,"Sid is the one who mentions Tom's sleep talking and repeats what Tom said in his sleep, indicating he is the speaker of the dialogue.",high
+Tom_Q0562,"Last night you said, ‘It’s
+blood, it’s blood, that’s what it is!’ You said that over and over.
+And you said, ‘Don’t torment me so—I’ll tell!’ Tell _what_? What is it
+you’ll tell?",Sid,"The dialogue references Tom's sleep talking, specifically mentioning phrases that Tom said during the night, which aligns with Sid's role as Tom's brother who is affected by Tom's actions.",high
+Tom_Q0563,"Sho! It’s that dreadful murder. I dream about it most every night
+myself. Sometimes I dream it’s me that done it.",Sid,"Sid is the one who has been listening to Tom's sleep talking and brings up the topic of the dreadful murder, indicating he shares a similar concern and has been affected by it.",high
+Tom_Q0574,"Tom, what on earth ails that cat?",Aunt Polly,"The dialogue is directed at Tom, questioning him about the cat's behavior, which aligns with Aunt Polly's role as a caretaker and authority figure in the scene.",high
+Tom_Q0576,"Why, I never see anything like it. What did make him act so?",Aunt Polly,"The dialogue follows Aunt Polly's astonished observation about the cat's behavior, and her subsequent questioning of Tom indicates she is the one speaking.",high
+Tom_Q0578,"They do, do they?",Aunt Polly,"The dialogue 'They do, do they?' is a response to Tom's previous statement about cats, indicating Aunt Polly's skepticism and authority in the conversation. The context shows her questioning Tom's explanation, which aligns with her role as a caretaker.",high
+Tom_Q0580,You _do_?,Aunt Polly,"The dialogue follows Aunt Polly's questioning of Tom about the cat's behavior, and her tone indicates she is challenging him. The phrase 'You _do_?' suggests she is responding directly to Tom's previous statement about cats acting a certain way, which aligns with her character as a strict and inquisitive guardian.",high
+Tom_Q0583,"Now, sir, what did you want to treat that poor dumb beast so, for?",Aunt Polly,"The dialogue follows Aunt Polly's questioning of Tom about his treatment of the cat, and her tone indicates she is the one expressing concern for the cat's well-being.",high
+Tom_Q0585,Hadn’t any aunt!—you numskull. What has that got to do with it?,Aunt Polly,"The dialogue follows Aunt Polly's questioning of Tom about his treatment of the cat, and her tone indicates she is scolding him. The phrase 'Hadn’t any aunt!—you numskull. What has that got to do with it?' reflects her frustration and is consistent with her character as a strict but caring guardian.",high
+Tom_Q0587,"I was meaning for the best, Tom. And, Tom, it _did_ do you good.",Aunt Polly,"The dialogue follows Aunt Polly's expression of remorse and her gentle touch on Tom's head, indicating she is speaking to him in a caring manner. The phrase 'I was meaning for the best, Tom. And, Tom, it _did_ do you good.' aligns with her character as a nurturing figure.",high
+Tom_Q0589,"Oh, go ’long with you, Tom, before you aggravate me again. And you try
+and see if you can’t be a good boy, for once, and you needn’t take any
+more medicine.",Aunt Polly,"The dialogue follows Aunt Polly's gentle response to Tom, where she expresses her intention to help him and encourages him to be a good boy. The phrase 'Oh, go ’long with you, Tom, before you aggravate me again' indicates a familiar and affectionate tone consistent with Aunt Polly's character.",high
+Tom_Q0626,_Ain’t_ it gay?,Joe,"The dialogue is immediately followed by Joe's response, indicating he is the one who said 'Ain’t it gay?' before the subsequent dialogue from Tom and Huckleberry.",high
+Tom_Q0634,"Oh yes, that’s so,",Joe,"The dialogue follows Joe's previous statement about preferring to be a pirate, indicating he is engaged in the conversation about the merits of being a pirate versus a hermit.",high
+Tom_Q0635,"but I hadn’t thought much about it, you
+know. I’d a good deal rather be a pirate, now that I’ve tried it.",Joe,"The dialogue follows Joe's previous statement about preferring to be a pirate after trying it, indicating he is reflecting on the conversation about pirates and hermits.",high
+Tom_Q0648,"And they carry the women to the island,",Tom,"The dialogue immediately before the TARGET DIALOGUE is spoken by Tom, who is describing the actions of pirates. The context suggests that he continues to elaborate on their activities, leading into the TARGET DIALOGUE about carrying women to the island.",high
+Tom_Q0649,"they don’t kill the
+women.",Joe,"The dialogue follows Joe's previous statement about pirates carrying women to the island, and he is the one who expresses the idea that pirates don't kill the women.",high
+Tom_Q0652,"And don’t they wear the bulliest clothes! Oh no! All gold and silver
+and di’monds,",Joe,"The dialogue is preceded by Joe's enthusiastic comment about pirates wearing 'the bulliest clothes,' indicating he is the one speaking about their attire.",high
+Tom_Q0673,"Yes, I’ve heard about that,",Huck,"The dialogue follows Huck's previous statement about the bread and the drowning, and he is known for his practical and straightforward nature, which aligns with the context of the conversation.",medium
+Tom_Q0674,"I wonder what makes the bread
+do that.",Joe,"The dialogue follows Joe's previous statement about wishing to know who is drownded, indicating he is engaged in the conversation about the bread and its significance.",high
+Tom_Q0681,"By jings, I wish I was over there, now,",Huck,"Huck expresses a desire to be over there and shows curiosity about who is drownded, which aligns with his character's perspective and the context of the conversation.",high
+Tom_Q0693,"Why,
+that door’s open, I believe. Why, of course it is. No end of strange
+things now. Go ’long and shut it, Sid.",Aunt Polly,"The dialogue follows Aunt Polly's previous statement about the candle blowing and her concern about the door being open, indicating she is speaking to Sid about it.",high
+Tom_Q0696,"he warn’t _bad_, so to say—only
+misch_ee_vous. Only just giddy, and harum-scarum, you know. He warn’t
+any more responsible than a colt. _He_ never meant any harm, and he was
+the best-hearted boy that ever was",Aunt Polly,"The dialogue reflects Aunt Polly's perspective on Tom and her emotional state regarding his character, as she discusses his mischievous nature and good-heartedness. The surrounding narrative indicates she is reminiscing about Tom and comparing him to her own experiences with mischief, which aligns with her character.",high
+Tom_Q0697,"It was just so with my Joe—always full of his devilment, and up to
+every kind of mischief, but he was just as unselfish and kind as he
+could be—and laws bless me, to think I went and whipped him for taking
+that cream, never once recollecting that I throwed it out myself because
+it was sour, and I never to see him again in this world, never, never,
+never, poor abused boy!",Mrs. Harper,"The dialogue reflects Mrs. Harper's grief over her son Joe, as she recalls his mischievous nature and expresses regret for punishing him. The context indicates she is speaking about her own son, Joe, in a moment of sorrow, which aligns with her character's emotional state.",high
+Tom_Q0699,"but if he’d been
+better in some ways—",Sid,"The dialogue follows Sid's previous statement about Tom, indicating he is reflecting on Tom's character and expressing a sentiment about him.",high
+Tom_Q0700,_Sid!_,Mrs. Harper,"The surrounding narrative indicates that Mrs. Harper is expressing her grief and memories of her son Joe, and the dialogue immediately before the TARGET DIALOGUE is her lamenting about her son. The use of 'Sid!' suggests she is addressing Sid in a moment of emotional distress.",high
+Tom_Q0701,"Not a word against my Tom, now that he’s gone! God’ll take care
+of _him_—never you trouble _your_self, sir! Oh, Mrs. Harper, I don’t
+know how to give him up! I don’t know how to give him up! He was such a
+comfort to me, although he tormented my old heart out of me, ’most.",Mrs. Thompson,"The dialogue expresses deep sorrow and a protective sentiment towards Tom, which aligns with Mrs. Thompson's character as she mourns the loss of her son. The emotional tone and the reference to Tom as a comfort, despite his mischief, suggest a maternal voice, consistent with Mrs. Thompson's role in the narrative.",high
+Tom_Q0702,"The Lord giveth and the Lord hath taken away—Blessed be the name of
+the Lord! But it’s so hard—Oh, it’s so hard! Only last Saturday my Joe
+busted a firecracker right under my nose and I knocked him sprawling.
+Little did I know then, how soon—Oh, if it was to do over again I’d hug
+him and bless him for it.",Mrs. Baker,"The dialogue reflects Mrs. Baker's grief and guilt over her interactions with her deceased son, Joe, which aligns with her emotional state described in the surrounding narrative. She expresses regret about past actions and connects them to her current sorrow, indicating her character's depth and relationship with Joe.",high
+Tom_Q0703,"Yes, yes, yes, I know just how you feel, Mrs. Harper, I know just
+exactly how you feel. No longer ago than yesterday noon, my Tom took
+and filled the cat full of Pain-killer, and I did think the cretur would
+tear the house down. And God forgive me, I cracked Tom’s head with my
+thimble, poor boy, poor dead boy. But he’s out of all his troubles now.
+And the last words I ever heard him say was to reproach—",Aunt Polly,"The dialogue reflects Aunt Polly's grief and guilt over her treatment of Tom, as she recalls a specific incident involving him and expresses sorrow for his loss. The mention of 'my Tom' and the emotional context aligns with Aunt Polly's character and her relationship with Tom.",high
+Tom_Q0706,"No, Tom’s true-blue, Huck, and he’ll come back. He won’t desert. He
+knows that would be a disgrace to a pirate, and Tom’s too proud for that
+sort of thing. He’s up to something or other. Now I wonder what?",Joe,"The dialogue discusses Tom's character and his commitment to not deserting, which aligns with Joe's perspective as he expresses confidence in Tom's loyalty and hints at curiosity about Tom's actions.",high
+Tom_Q0708,"Pretty near, but not yet, Huck. The writing says they are if he ain’t
+back here to breakfast.",Joe,"Joe is discussing Tom's absence and the implications of his return, indicating he is the one who is concerned about the pirate code and the breakfast condition.",high
+Tom_Q0717,"Oh, boys, let’s give it up. I want to go home. It’s so lonesome.",Joe,"The dialogue expresses a desire to go home and feelings of loneliness, which aligns with Joe's character as he is portrayed as feeling gloomy and wanting to see his mother.",high
+Tom_Q0720,I don’t care for fishing. I want to go home.,Joe,"Joe expresses his desire to go home and specifically states, 'I don’t care for fishing. I want to go home,' indicating his feelings of loneliness and longing for his mother.",high
+Tom_Q0722,"Swimming’s no good. I don’t seem to care for it, somehow, when there
+ain’t anybody to say I sha’n’t go in. I mean to go home.",Joe,"Joe expresses his desire to go home and his lack of interest in swimming, indicating his feelings of loneliness and homesickness, which aligns with the TARGET DIALOGUE.",high
+Tom_Q0724,"Yes, I _do_ want to see my mother—and you would, too, if you had one. I
+ain’t any more baby than you are.",Joe,"Joe expresses his desire to go home and mentions wanting to see his mother, which aligns with the TARGET DIALOGUE where he asserts he does want to see his mother and defends himself against being called a baby.",high
+Tom_Q0727,"I’ll never speak to you again as long as I live,",Joe,"The dialogue follows Joe's earlier expression of wanting to go home and feeling upset, and it is consistent with his emotional state as he rises and moves away moodily after saying he will never speak to Tom again.",high
+Tom_Q0742,"So would I,",Joe,"The TARGET DIALOGUE 'So would I,' is immediately followed by Joe's statement 'It’s just nothing,' indicating that he is responding to Tom's comment about smoking.",high
+Tom_Q0743,It’s just nothing.,Joe,"Joe is responding to Tom's statement about smoking, and his dialogue follows directly after Tom's comment about the ease of smoking. The context indicates that Joe is expressing his own experience with smoking, which aligns with the TARGET DIALOGUE.",high
+Tom_Q0772,"and I was a-standing just so—just as I am now, and as if
+you was him—I was as close as that—and he smiled, just this way—and then
+something seemed to go all over me, like—awful, you know—and I never
+thought what it meant, of course, but I can see now!",Uncertain,"The dialogue does not provide clear attribution to a specific character, and the surrounding narrative focuses on a group of boys and girls discussing Tom and Joe, without identifying who is speaking in the TARGET DIALOGUE.",low
+Tom_Q0773,"Well, Tom Sawyer he licked me once.",Uncertain,"The surrounding narrative discusses a group of boys reminiscing about their interactions with the deceased boys, but does not specify who is speaking the TARGET DIALOGUE. The dialogue itself does not provide clear attribution to a specific character.",low
+Tom_Q0774,"I am the Resurrection and the
+Life.",the minister,"The TARGET DIALOGUE is part of a church service, and the surrounding narrative describes the minister praying and delivering a sermon about the deceased boys, indicating that the words 'I am the Resurrection and the Life' are spoken by him as part of the service.",high
+Tom_Q0776,"And so they shall. I’m glad to see him, poor motherless thing!",Aunt Polly,"Aunt Polly expresses her gladness to see Huck, referring to him as a 'poor motherless thing,' which aligns with her character's nurturing nature and her relationship with Huck.",high
+Tom_Q0777,"Praise God from
+whom all blessings flow—_sing_!—and put your hearts in it!",the minister,"The minister is the one who shouts at the top of his voice, indicating he is leading the congregation in praise, which aligns with the TARGET DIALOGUE that calls for singing and putting hearts into it.",high
+Tom_Q0781,"and I believe you
+would if you had thought of it.",Aunt Polly,"Aunt Polly expresses her feelings directly to Tom, asking him if he would have thought to give her a hint about his absence, which aligns with her previous statements about being hurt by his actions.",high
+Tom_Q0783,"Say,
+now, would you, if you’d thought of it?",Aunt Polly,"The dialogue is preceded by Aunt Polly's question, 'Would you, Tom?' and follows her expression of disappointment, indicating she is the one speaking in the TARGET DIALOGUE.",high
+Tom_Q0786,"It would have been something if you’d
+cared enough to _think_ of it, even if you didn’t _do_ it.",Aunt Polly,"The TARGET DIALOGUE expresses disappointment and reflects Aunt Polly's feelings about Tom's lack of consideration for her, which aligns with her previous statements about wishing Tom had cared more for her. The context shows her emotional investment in Tom's actions.",high
+Tom_Q0788,"it’s only Tom’s giddy
+way—he is always in such a rush that he never thinks of anything.",Aunt Polly,"The dialogue reflects Aunt Polly's concern for Tom and her disappointment in his lack of thoughtfulness, which aligns with her character as a caring guardian. The context shows her expressing a wish that Tom would have cared more for her feelings, indicating her role in the conversation.",high
+Tom_Q0789,"More’s the pity. Sid would have thought. And Sid would have come and
+_done_ it, too. Tom, you’ll look back, some day, when it’s too late,
+and wish you’d cared a little more for me when it would have cost you so
+little.",Aunt Polly,"The dialogue reflects Aunt Polly's feelings of disappointment and concern for Tom, as she expresses that he will regret not caring for her more. The context shows her emotional investment in Tom's actions and thoughts, which aligns with her character as a caring guardian.",high
+Tom_Q0791,I’d know it better if you acted more like it.,Aunt Polly,"Aunt Polly expresses disappointment in Tom's lack of affection and suggests that he should show more care, which aligns with the sentiment of the TARGET DIALOGUE about knowing love through actions.",high
+Tom_Q0794,"It ain’t much—a cat does that much—but it’s better than nothing. What
+did you dream?",Aunt Polly,"The TARGET DIALOGUE follows Aunt Polly's concern for Tom's feelings and actions, and her response reflects her nurturing yet critical nature. The phrase 'It ain’t much—a cat does that much—but it’s better than nothing' aligns with her character's tendency to express disappointment while still caring for Tom.",high
+Tom_Q0796,"Well, so we did. So we always do. I’m glad your dreams could take even
+that much trouble about us.",Aunt Polly,"The TARGET DIALOGUE follows a conversation where Tom is discussing his dreams with Aunt Polly, and her previous lines indicate she is the one responding to Tom's remarks about his dreams. The tone and context suggest she is expressing a mix of sarcasm and affection, which aligns with her character.",high
+Tom_Q0798,"Why, she was here! Did you dream any more?",Tom Sawyer,"The dialogue follows Tom's previous statements about his dreams and his interaction with Aunt Polly, where he is recounting details of his dream. The context indicates that Tom is the one recalling the dream and responding to Aunt Polly's prompts.",high
+Tom_Q0800,"Well, try to recollect—can’t you?",Aunt Polly,"The dialogue occurs in a context where Tom is recounting a dream to Aunt Polly, who is encouraging him to remember more details. The use of 'Well, try to recollect—can’t you?' aligns with Aunt Polly's role as a caretaker and her previous dialogue urging Tom to continue his story.",high
+Tom_Q0802,"Try harder, Tom! The wind did blow something. Come!",Mary,"The dialogue occurs in a context where Tom is recalling a dream, and Mary is encouraging him to remember more details. The phrase 'Try harder, Tom!' indicates a supportive and urging tone consistent with Mary's character, who is often portrayed as caring and nurturing towards Tom.",high
+Tom_Q0804,"Mercy on us! Go on, Tom—go on!",Mary,"The dialogue immediately before the TARGET DIALOGUE shows Tom recalling a dream and Mary encouraging him to continue, indicating her involvement in the conversation. The exclamation 'Mercy on us! Go on, Tom—go on!' aligns with her character's supportive nature.",high
+Tom_Q0806,"Go _on_, Tom!",Mary,"The dialogue 'Go _on_, Tom!' is followed by Mary encouraging Tom to continue recounting his dream, indicating she is the one prompting him.",high
+Tom_Q0808,"As I’m sitting here, I did! Didn’t I, Mary! Go on!",Tom Sawyer,"The dialogue reflects Tom's excitement and involvement in the dream recounting, and he is directly addressing Mary, asking her to confirm his recollection. This aligns with Tom's character as he often engages in imaginative storytelling.",high
+Tom_Q0810,"Well? Well? What did I make him do, Tom? What did I make him do?",Mary,"Mary is the one encouraging Tom to recall the details of the dream and is the only character directly asking him what he made Sid do, as indicated by her repeated questions and exclamations.",high
+Tom_Q0812,"Well, for the land’s sake! I never heard the beat of that in all my
+days! Don’t tell _me_ there ain’t anything in dreams, any more. Sereny
+Harper shall know of this before I’m an hour older. I’d like to see her
+get around _this_ with her rubbage ’bout superstition. Go on, Tom!",Mary,"The dialogue follows a series of exchanges where Tom is recalling what Mary said about the door being open and her encouragement for him to continue. The exclamation 'Well, for the land’s sake!' and the context of discussing dreams and superstition aligns with Mary's character, who is often portrayed as supportive and concerned.",high
+Tom_Q0814,"And so it was! Well, goodness gracious! Go on, Tom!",Mary,"The dialogue follows a pattern where Mary is encouraging Tom to continue his story and expresses surprise and excitement about the revelations he is sharing. The phrase 'Well, goodness gracious! Go on, Tom!' indicates her eagerness and engagement in the conversation, which aligns with her character's role in the narrative.",high
+Tom_Q0816,"So I did. So I did. Not the first time, neither. And then—",Tom Sawyer,"The dialogue follows Tom's recounting of a dream and is consistent with his character's tendency to reflect on events and emotions, as well as the context of the conversation where he is being prompted to continue his story.",high
+Tom_Q0818,"Tom! The sperrit was upon you! You was a prophesying—that’s what you
+was doing! Land alive, go on, Tom!",Huckleberry Finn,"The dialogue reflects Huck's excitement and belief in the supernatural, which aligns with his character's tendency to embrace adventure and the extraordinary. The context shows Huck encouraging Tom to continue his story about the spirit and prophesying.",high
+Tom_Q0822,"Shut your heads and let Tom go on! What did he say, Tom?",Mary,"Mary is encouraging Tom to continue his story and is the one who prompts him to go on, indicating her supportive role in the conversation.",high
+Tom_Q0824,"_There_, d’you hear that! It was his very words!",Tom Sawyer,"The dialogue follows Tom's recounting of events and is in response to the excitement and encouragement from the other characters, indicating that he is the one sharing his experience.",high
+Tom_Q0826,"I lay I did! There must ’a’ been an angel there. There _was_ an angel
+there, somewheres!",Tom Sawyer,"The dialogue reflects Tom's characteristic style and context, as he is recounting a vision or experience related to his friends' reactions to his supposed death, which aligns with his earlier statements about the events.",high
+Tom_Q0828,Just as true as I live!,Tom Sawyer,"The phrase 'Just as true as I live!' reflects Tom's characteristic way of speaking and his tendency to emphasize the truth of his experiences, especially in the context of recounting events that he believes are significant.",high
+Tom_Q0830,"It happened just so! It happened just so, as sure as I’m a-sitting in
+these very tracks. Tom, you couldn’t told it more like if you’d ’a’ seen
+it! And then what? Go on, Tom!",Mary,"The dialogue follows a discussion where Mary is engaged with Tom and Sid about the events that transpired, and her excitement and encouragement for Tom to continue his story suggest she is the one speaking in the TARGET DIALOGUE.",high
+Tom_Q0832,"Did you, Tom, _did_ you! I just forgive you everything for that!",Becky Thatcher,"The dialogue expresses a strong emotional reaction to Tom's actions, indicating a close relationship and forgiveness, which aligns with Becky's character as she often shows affection and concern for Tom. The context suggests a moment of reconciliation between them.",high
+Tom_Q0833,"It was very kind, even though it was only a—dream,",Tom Sawyer,"The dialogue follows Tom's recounting of a dream and is in response to a conversation with another character about the dream. The context suggests that Tom is reflecting on his feelings and experiences, which aligns with his character's introspective nature.",medium
+Tom_Q0834,"Shut up, Sid! A body does just the same in a dream as he’d do if he was
+awake. Here’s a big Milum apple I’ve been saving for you, Tom, if you
+was ever found again—now go ’long to school. I’m thankful to the good
+God and Father of us all I’ve got you back, that’s long-suffering and
+merciful to them that believe on Him and keep His word, though goodness
+knows I’m unworthy of it, but if only the worthy ones got His blessings
+and had His hand to help them over the rough places, there’s few enough
+would smile here or ever enter into His rest when the long night comes.
+Go ’long Sid, Mary, Tom—take yourselves off—you’ve hendered me long
+enough.",Aunt Polly,"The dialogue expresses a mix of affection and admonition towards Tom and Sid, which aligns with Aunt Polly's character as a caring yet strict guardian. The mention of 'the good God and Father of us all' and the moral tone reflects her religious beliefs and values.",high
+Tom_Q0840,I did come—didn’t you see me?,Mary Austin,"The dialogue follows a conversation where Mary Austin is responding to a question about her attendance at Sunday school, indicating she was present and in Miss Peters' class. The context suggests she is speaking to another girl, which aligns with her character's involvement in the social dynamics around Tom.",high
+Tom_Q0842,"I was in Miss Peters’ class, where I always go. I saw _you_.",Mary Austin,"The dialogue follows a question from another girl about where she sat in Sunday school, and Mary responds by stating she was in Miss Peters' class, indicating she is the one speaking about her attendance.",high
+Tom_Q0844,"Oh, that’s jolly. Who’s going to give it?",Grace Miller,"The dialogue follows a conversation about a picnic, and Grace Miller is the one asking about who is going to give it, indicating her excitement and interest in the event.",high
+Tom_Q0846,"Oh, goody; I hope she’ll let _me_ come.",Mary Austin,"The dialogue follows a conversation where Mary Austin is discussing the picnic with another girl, and the excitement about attending is expressed. The context indicates that Mary is eager to join the picnic, which aligns with her previous statements about wanting to attend.",high
+Tom_Q0848,That’s ever so nice. When is it going to be?,Grace Miller,"The dialogue follows Grace's question about the picnic, and the context indicates she is asking when it will take place, which aligns with her previous excitement about attending.",high
+Tom_Q0850,"Oh, won’t it be fun! You going to have all the girls and boys?",Becky Thatcher,"The dialogue expresses excitement about the picnic and is consistent with Becky's character, who is eager and enthusiastic about social events, especially those involving Tom and her friends.",high
+Tom_Q0854,"Oh, may I come?",Becky Thatcher,"The dialogue occurs in a context where the other girls are asking to be invited to the picnic, and the emotional response following the TARGET DIALOGUE indicates that it is likely Becky who is feeling left out and is eager to join.",medium
+Tom_Q0856,And me?,Sally Rogers,"The dialogue 'And me?' is immediately followed by 'said Sally Rogers,' indicating she is the speaker of the TARGET DIALOGUE.",high
+Tom_Q0858,"And me, too?",Susy Harper,"The dialogue 'And me, too?' is immediately followed by Susy Harper's name, indicating she is the one asking to join the picnic.",high
+Tom_Q0859,And Joe?,Becky Thatcher,"The dialogue occurs after a series of girls ask if they can come to the picnic, and the context suggests that Becky is part of this group. The emotional response following the dialogue indicates her involvement in the situation, as she feels hurt when Tom turns away with Amy.",medium
+Tom_Q0867,"Oh, here’s a jolly one! look at this!",Alfred,"The dialogue occurs right after Alfred is described as trying to engage Becky with pictures, and the excitement in the line 'Oh, here’s a jolly one! look at this!' suggests he is the one trying to share something enjoyable with her.",high
+Tom_Q0870,"Tom, I’ve a notion to skin you alive!",Aunt Polly,"The dialogue follows Aunt Polly's reaction to Tom's actions, indicating her frustration and disappointment with him. The context shows she is addressing Tom directly about his behavior, which aligns with her character as his guardian.",high
+Tom_Q0872,"Well, you’ve done enough. Here I go over to Sereny Harper, like an old
+softy, expecting I’m going to make her believe all that rubbage about
+that dream, when lo and behold you she’d found out from Joe that you was
+over here and heard all the talk we had that night. Tom, I don’t know
+what is to become of a boy that will act like that. It makes me feel so
+bad to think you could let me go to Sereny Harper and make such a fool
+of myself and never say a word.",Aunt Polly,"The dialogue expresses Aunt Polly's frustration with Tom for making her look foolish in front of Sereny Harper, which aligns with her role as Tom's guardian and her previous admonishments about his behavior.",high
+Tom_Q0874,"Oh, child, you never think. You never think of anything but your
+own selfishness. You could think to come all the way over here from
+Jackson’s Island in the night to laugh at our troubles, and you could
+think to fool me with a lie about a dream; but you couldn’t ever think
+to pity us and save us from sorrow.",Aunt Polly,"The dialogue expresses frustration and disappointment towards Tom's selfishness and lack of thought for others, which aligns with Aunt Polly's character as a caring but strict guardian. The context shows her addressing Tom directly about his actions and their consequences.",high
+Tom_Q0876,"What did you come for, then?",Aunt Polly,"The dialogue follows Aunt Polly's previous statements where she expresses disappointment in Tom's selfishness and lack of thoughtfulness. The question 'What did you come for, then?' is a direct response to Tom's explanation of his intentions, indicating that Aunt Polly is the one speaking.",high
+Tom_Q0878,"Tom, Tom, I would be the thankfullest soul in this world if I could
+believe you ever had as good a thought as that, but you know you never
+did—and I know it, Tom.",Aunt Polly,"The TARGET DIALOGUE expresses disbelief in Tom's good intentions and reflects Aunt Polly's character as a concerned guardian who knows Tom's tendencies. The surrounding dialogue shows her frustration with Tom's behavior and her desire for honesty, which aligns with Aunt Polly's role in the narrative.",high
+Tom_Q0880,"Oh, Tom, don’t lie—don’t do it. It only makes things a hundred times
+worse.",Aunt Polly,"The dialogue is directed at Tom, expressing concern and disappointment about his dishonesty. The context shows Aunt Polly's emotional response to Tom's actions, indicating she is the one speaking.",high
+Tom_Q0882,"I’d give the whole world to believe that—it would cover up a power
+of sins, Tom. I’d ’most be glad you’d run off and acted so bad. But it
+ain’t reasonable; because, why didn’t you tell me, child?",Aunt Polly,"The dialogue expresses a mother's concern and desire to believe in her child's good intentions, which aligns with Aunt Polly's character as Tom's guardian. The context shows her emotional struggle regarding Tom's actions.",high
+Tom_Q0884,What bark?,Aunt Polly,"The dialogue follows Aunt Polly's questioning of Tom about the bark he mentioned, indicating she is the one asking 'What bark?' in response to Tom's previous statements.",high
+Tom_Q0886,"_Did_ you kiss me, Tom?",Aunt Polly,"The dialogue is a question directed at Tom, asking if he kissed her, which aligns with Aunt Polly's role as his guardian and the context of their conversation about affection and concern.",high
+Tom_Q0888,"Are you sure you did, Tom?",Aunt Polly,"The dialogue is a question directed at Tom, and the surrounding context shows Aunt Polly's concern and tenderness towards him, indicating she is the one speaking.",high
+Tom_Q0890,"What did you kiss me for, Tom?",Aunt Polly,"The dialogue occurs in a context where Aunt Polly is speaking to Tom about the kiss he gave her, asking him 'What did you kiss me for, Tom?' This indicates she is the one inquiring about the kiss.",high
+Tom_Q0892,"Kiss me again, Tom!—and be off with you to school, now, and don’t
+bother me any more.",Aunt Polly,"The dialogue follows Aunt Polly's tender interaction with Tom, where she expresses affection and concern for him. The phrase 'Kiss me again, Tom!' indicates a maternal and affectionate tone consistent with Aunt Polly's character.",high
+Tom_Q0908,Who tore this book?,Uncertain,"The narrative does not provide a clear indication of who is speaking the TARGET DIALOGUE, as it only describes the master's actions and the reactions of the students without naming him directly.",low
+Tom_Q0909,"Benjamin Rogers, did you tear this book?",the master,"The narrative describes the master as the one who is gathering his wrath and searching for signs of guilt among the students. The dialogue directly follows his inquiry about the torn book, indicating he is the one asking the questions.",high
+Tom_Q0910,"Joseph Harper, did you?",The master,"The master is the one questioning the students about the torn book, as indicated by the preceding dialogue where he asks Benjamin Rogers and then Joseph Harper, followed by other students.",high
+Tom_Q0911,Amy Lawrence?,Uncertain,"The dialogue 'Amy Lawrence?' is spoken by the master as he questions the students about the torn book. However, the narrative does not provide a clear identification of the master’s name in this specific instance.",medium
+Tom_Q0912,Gracie Miller?,Uncertain,"The narrative does not provide clear attribution for the dialogue 'Gracie Miller?' as it does not specify who is asking the question. The surrounding context focuses on the master questioning students, but does not confirm that the master is the one asking about Gracie Miller.",low
+Tom_Q0913,"Susan Harper, did you do this?",Uncertain,"The narrative does not provide a clear indication of who is asking Susan Harper if she did it, as it only lists her name among others being questioned without specifying the speaker.",low
+Tom_Q0914,Rebecca Thatcher,Becky Thatcher,"The dialogue is directed at Becky Thatcher, as indicated by the master asking her directly if she tore the book, and the narrative context describes her reaction of terror and appeal.",high
+Tom_Q0915,"did you tear—no, look me in the face",Mr. Dobbins,"The dialogue occurs in the context of a teacher questioning students about tearing a book, and the phrase 'look me in the face' suggests a teacher-student interaction, which aligns with Mr. Dobbins' role as the master in the classroom.",medium
+Tom_Q0916,did you tear this book?,Mr. Dobbins,"The dialogue occurs in a context where the master is questioning the students about tearing a book, and the phrase 'did you tear this book?' is a direct question posed by the master to the students, indicating that Mr. Dobbins is the one asking the question.",high
+Tom_Q0921,"You’d scarce expect one of my age to speak in public on the stage,",Uncertain,"The TARGET DIALOGUE is spoken by a very little boy who is described as sheepishly reciting on stage, but the specific identity of this boy is not provided in the surrounding narrative context.",low
+Tom_Q0922,"Mary had a little lamb,",Uncertain,"The dialogue 'Mary had a little lamb' is presented without attribution to a specific character in the surrounding narrative. The context describes a series of performances by children, but does not clarify who recited this particular line.",low
+Tom_Q0940,"In the common walks of life, with what delightful emotions does the
+youthful mind look forward to some anticipated scene of festivity!
+Imagination is busy sketching rose-tinted pictures of joy. In fancy, the
+voluptuous votary of fashion sees herself amid the festive throng, ‘the
+observed of all observers.’ Her graceful form, arrayed in snowy robes,
+is whirling through the mazes of the joyous dance; her eye is brightest,
+her step is lightest in the gay assembly.
+
+",Uncertain,"The TARGET DIALOGUE is presented as an excerpt from a composition read during an examination, but the specific author of the composition is not identified in the surrounding narrative context.",low
+Tom_Q0941,"In such delicious fancies time quickly glides by, and the welcome hour
+arrives for her entrance into the Elysian world, of which she has
+had such bright dreams. How fairy-like does everything appear to her
+enchanted vision! Each new scene is more charming than the last. But
+after a while she finds that beneath this goodly exterior, all is
+vanity, the flattery which once charmed her soul, now grates harshly
+upon her ear; the ballroom has lost its charms; and with wasted health
+and imbittered heart, she turns away with the conviction that earthly
+pleasures cannot satisfy the longings of the soul!",Uncertain,"The TARGET DIALOGUE is part of a composition being read aloud during an examination, but the specific speaker of this passage is not identified in the surrounding narrative context.",low
+Tom_Q0942,"How
+sweet!",Uncertain,"The dialogue 'How sweet!' is not attributed to any specific character in the surrounding narrative context, which only describes the reactions of the audience and does not provide clarity on who specifically made the remark.",low
+Tom_Q0943,How eloquent!,Uncertain,"The dialogue 'How eloquent!' is not directly attributed to any character in the surrounding narrative context, which focuses on the reactions of the audience rather than specific speakers.",low
+Tom_Q0944,So true!,Uncertain,The dialogue 'So true!' is a general expression of agreement and does not provide specific context or character identification. The surrounding narrative does not clarify who is speaking.,low
+Tom_Q0948,"Alabama, goodbye! I love thee well!
+    But yet for a while do I leave thee now!
+Sad, yes, sad thoughts of thee my heart doth swell,
+    And burning recollections throng my brow!
+For I have wandered through thy flowery woods;
+    Have roamed and read near Tallapoosa’s stream;
+Have listened to Tallassee’s warring floods,
+    And wooed on Coosa’s side Aurora’s beam.
+
+",Uncertain,"The TARGET DIALOGUE is presented as part of a poem read by a slim, melancholy girl, but her name is not provided in the surrounding context. Therefore, we cannot definitively attribute the dialogue to a specific character.",low
+Tom_Q0949,"Yet shame I not to bear an o’erfull heart,
+    Nor blush to turn behind my tearful eyes;
+’Tis from no stranger land I now must part,
+    ’Tis to no strangers left I yield these sighs.
+Welcome and home were mine within this State,
+    Whose vales I leave—whose spires fade fast from me
+And cold must be mine eyes, and heart, and tête,
+    When, dear Alabama! they turn cold on thee!",Uncertain,"The TARGET DIALOGUE is part of a poem read by a slim, melancholy girl, but her name is not provided in the surrounding context. Therefore, we cannot definitively attribute the dialogue to a specific character.",low
+Tom_Q0982,"You’ve been mighty good to me, boys—better’n anybody else in this town.
+And I don’t forget it, I don’t. Often I says to myself, says I, ‘I used
+to mend all the boys’ kites and things, and show ’em where the good
+fishin’ places was, and befriend ’em what I could, and now they’ve
+all forgot old Muff when he’s in trouble; but Tom don’t, and Huck
+don’t—_they_ don’t forget him,’ says I, ‘and I don’t forget them.’ Well,
+boys, I done an awful thing—drunk and crazy at the time—that’s the only
+way I account for it—and now I got to swing for it, and it’s right.
+Right, and _best_, too, I reckon—hope so, anyway. Well, we won’t talk
+about that. I don’t want to make _you_ feel bad; you’ve befriended me.
+But what I want to say, is, don’t _you_ ever get drunk—then you won’t
+ever get here. Stand a litter furder west—so—that’s it; it’s a prime
+comfort to see faces that’s friendly when a body’s in such a muck
+of trouble, and there don’t none come here but yourn. Good friendly
+faces—good friendly faces. Git up on one another’s backs and let me
+touch ’em. That’s it. Shake hands—yourn’ll come through the bars, but
+mine’s too big. Little hands, and weak—but they’ve helped Muff Potter a
+power, and they’d help him more if they could.",Muff Potter,"The dialogue expresses gratitude towards Tom and Huck, referencing past kindnesses and acknowledging his current predicament, which aligns with Muff Potter's character as he is the one in jail and has previously interacted with the boys.",high
+Tom_Q0983,Take the witness.,counsel for the prosecution,"The phrase 'Take the witness' is repeated in the context of the prosecution calling witnesses during the trial, indicating that it is the prosecution's counsel who is directing the proceedings.",high
+Tom_Q0984,I have no questions to ask him.,Muff Potter's lawyer,"The dialogue 'I have no questions to ask him' is attributed to Potter's lawyer, as indicated by the narrative context that follows, which states, 'the lawyer replied' after the prisoner raised his eyes.",high
+Tom_Q0985,Take the witness.,counsel for the prosecution,"The phrase 'Take the witness' is repeated in the context of the prosecution's questioning, indicating it is likely spoken by the prosecution's counsel who is directing the proceedings.",high
+Tom_Q0986,"I have no questions to ask him,",Muff Potter's lawyer,"The dialogue 'I have no questions to ask him' is attributed to Potter's lawyer, as indicated by the narrative context that follows, which states 'Potter’s lawyer replied.'",high
+Tom_Q0987,Take the witness.,counsel for the prosecution,"The phrase 'Take the witness' is repeated in the context of the prosecution calling witnesses to testify, indicating that it is the prosecution's counsel who is directing the proceedings.",high
+Tom_Q0988,"By the oaths of citizens whose simple word is above suspicion, we have
+fastened this awful crime, beyond all possibility of question, upon the
+unhappy prisoner at the bar. We rest our case here.",Counsel for the prosecution,"The dialogue is presented as part of the prosecution's case against the prisoner, indicating that it is the counsel for the prosecution who is making this statement about the evidence against the defendant.",high
+Tom_Q0989,"Your honor, in our remarks at the opening of this trial, we
+foreshadowed our purpose to prove that our client did this fearful deed
+while under the influence of a blind and irresponsible delirium produced
+by drink. We have changed our mind. We shall not offer that plea.",Counsel for the defence,"The dialogue indicates a formal address to the court, consistent with the role of a lawyer presenting a defense in a trial setting. The context suggests that this is a statement made by the defense attorney regarding their strategy in the case.",high
+Tom_Q0990,Call Thomas Sawyer!,Uncertain,"The TARGET DIALOGUE 'Call Thomas Sawyer!' is not directly attributed to a specific character in the provided context, and there is no clear indication of who is calling for Tom Sawyer.",low
+Tom_Q0991,"Thomas Sawyer, where were you on the seventeenth of June, about the
+hour of midnight?",Injun Joe,"The TARGET DIALOGUE is a question directed at Tom Sawyer, asking about his whereabouts, which indicates that it is being asked by a character who is interrogating him. The context shows that Injun Joe is the one questioning Tom on the stand.",high
+Tom_Q0993,"A little bit louder, please. Don’t be afraid. You were—",Injun Joe,"The dialogue includes questions directed at Tom, such as 'A little bit louder, please. Don’t be afraid. You were—' and 'Speak up—just a trifle louder. How near were you?' which indicates that the speaker is interrogating Tom, consistent with Injun Joe's role in the scene.",high
+Tom_Q0995,Were you anywhere near Horse Williams’ grave?,Uncertain,"The dialogue does not provide a clear attribution to a specific character, as it is part of a questioning sequence in a courtroom setting. The speaker is likely a figure of authority, possibly the judge or a lawyer, but the text does not specify who is asking the questions.",low
+Tom_Q0997,Speak up—just a trifle louder. How near were you?,Injun Joe,"The dialogue is directed at Tom Sawyer, asking him to speak louder and inquiring about his proximity to Horse Williams' grave, which aligns with Injun Joe's role in the courtroom setting as an interrogator.",high
+Tom_Q0999,"Were you hidden, or not?",Injun Joe,"The TARGET DIALOGUE 'Were you hidden, or not?' is a question directed at Tom Sawyer during a tense moment in the courtroom, where Injun Joe is interrogating him about his presence in the graveyard.",high
+Tom_Q1001,Where?,Injun Joe,"The dialogue 'Where?' is a direct question posed to Tom Sawyer, and it follows Injun Joe's inquiry about Tom's location in the graveyard, indicating that he is the one asking for clarification.",high
+Tom_Q1003,Any one with you?,Injun Joe,"The dialogue occurs in a courtroom setting where Injun Joe is questioning Tom about his presence in the graveyard. The context indicates that Injun Joe is the one asking questions, and the tone of the dialogue aligns with his character's authoritative and menacing demeanor.",high
+Tom_Q1005,"Wait—wait a moment. Never mind mentioning your companion’s name. We
+will produce him at the proper time. Did you carry anything there with
+you.",Injun Joe,"The dialogue is directed towards Tom, asking him questions about his actions in the graveyard, and the tone is authoritative and controlling, which aligns with Injun Joe's character as he interrogates Tom.",high
+Tom_Q1006,"Speak out, my boy—don’t be diffident. The truth is always respectable.
+What did you take there?",Injun Joe,"The dialogue is directed towards Tom, encouraging him to speak up and be truthful, which aligns with Injun Joe's role in the courtroom scene where he is interrogating Tom about the events in the graveyard.",high
+Tom_Q1008,"We will produce the skeleton of that cat. Now, my boy, tell us
+everything that occurred—tell it in your own way—don’t skip anything,
+and don’t be afraid.",Injun Joe,"The dialogue is directed towards Tom, encouraging him to recount his story without fear, which aligns with Injun Joe's manipulative and intimidating character as he interrogates Tom about the events surrounding the grave.",high
+Tom_Q1142,"No,",Injun Joe,"The narrative context indicates that the voice that made the boys gasp and quake was Injun Joe's, and he is the one who continues the conversation about the dangers of their plans.",high
+Tom_Q1143,"I’ve thought it all over, and I don’t like it. It’s
+dangerous.",Injun Joe,"The dialogue follows a description of a ragged man speaking in a low voice, and the subsequent reaction of the deaf and dumb Spaniard, who is revealed to be Injun Joe. The context indicates that Injun Joe is discussing the dangers of their plans, which aligns with the TARGET DIALOGUE expressing concern about danger.",high
+Tom_Q1144,Dangerous!,Injun Joe,"The TARGET DIALOGUE 'Dangerous!' is followed by the reaction of the boys and is attributed to the 'deaf and dumb' Spaniard, who is revealed to be Injun Joe. The context indicates that he is responding to the previous speaker's concerns about danger.",high
+Tom_Q1146,Milksop!,Injun Joe,"The TARGET DIALOGUE 'Milksop!' is attributed to Injun Joe, as the narrative context indicates that it is his voice that made the boys gasp and quake, and he is the one speaking immediately after the dialogue.",high
+Tom_Q1147,"What’s any more dangerous than that job up yonder—but nothing’s come of
+it.",Injun Joe,"The TARGET DIALOGUE follows Injun Joe's earlier remarks about the dangers of their plans, and the context indicates he is discussing the risks associated with their actions. The narrative also highlights the boys' fear of Injun Joe's voice, reinforcing that he is the speaker.",high
+Tom_Q1148,"That’s different. Away up the river so, and not another house about.
+’Twon’t ever be known that we tried, anyway, long as we didn’t succeed.",Injun Joe,"The TARGET DIALOGUE discusses the dangers of a job up the river, which aligns with Injun Joe's earlier remarks about the risks involved in their plans. The context indicates he is the one expressing these thoughts.",high
+Tom_Q1149,"Well, what’s more dangerous than coming here in the daytime!—anybody
+would suspicion us that saw us.",Injun Joe,"The TARGET DIALOGUE discusses the danger of being seen during the daytime, which aligns with Injun Joe's earlier remarks about the risks associated with their plans. The context indicates that he is the one expressing concern about being suspected.",high
+Tom_Q1150,"I know that. But there warn’t any other place as handy after that fool
+of a job. I want to quit this shanty. I wanted to yesterday, only it
+warn’t any use trying to stir out of here, with those infernal boys
+playing over there on the hill right in full view.",Injun Joe,"The dialogue mentions 'those infernal boys' and reflects a desire to leave the shanty, which aligns with Injun Joe's character and his previous remarks about the danger of being seen by the boys. Additionally, the context indicates he is discussing plans with another character, which fits with Injun Joe's role in the narrative.",high
+Tom_Q1156,"Here! _You’re_ a watchman, ain’t you! All right, though—nothing’s
+happened.",Injun Joe,"The dialogue occurs immediately after Injun Joe wakes up and interacts with his comrade, indicating he is the one speaking to him about being a watchman.",high
+Tom_Q1157,My! have I been asleep?,Uncertain,"The dialogue occurs in a context where Injun Joe is interacting with his comrade, but the specific speaker of the TARGET DIALOGUE is not clearly identified in the surrounding text.",low
+Tom_Q1158,"Oh, partly, partly. Nearly time for us to be moving, pard. What’ll we
+do with what little swag we’ve got left?",Injun Joe,"The dialogue follows Injun Joe's earlier line where he wakes up his comrade and discusses their plans, indicating he is the one speaking about moving and the swag they have left.",high
+Tom_Q1159,"I don’t know—leave it here as we’ve always done, I reckon. No use to
+take it away till we start south. Six hundred and fifty in silver’s
+something to carry.",Injun Joe,"The dialogue occurs in a context where Injun Joe is discussing what to do with their stolen money, indicating he is the one suggesting to leave it behind until they start south. The preceding dialogue shows him waking his comrade and discussing their plans.",high
+Tom_Q1160,Well—all right—it won’t matter to come here once more.,Injun Joe,"Injun Joe is the one who is stirring his comrade and discussing their plans, indicating he is the one making decisions about their actions and the location of their loot.",high
+Tom_Q1161,No—but I’d say come in the night as we used to do—it’s better.,Injun Joe,"The dialogue occurs in a context where Injun Joe is interacting with his comrade about their plans and past actions, indicating a familiarity with the situation and a desire to return to their previous methods.",high
+Tom_Q1162,"Yes: but look here; it may be a good while before I get the right
+chance at that job; accidents might happen; ’tain’t in such a very good
+place; we’ll just regularly bury it—and bury it deep.",Injun Joe,"The dialogue discusses the need to bury their loot and expresses concern about the timing and location of their actions, which aligns with Injun Joe's character as he is portrayed as cautious and calculating in his dealings.",high
+Tom_Q1163,"Good idea,",Injun Joe,"The dialogue follows a discussion about burying their treasure and is attributed to the comrade who is actively involved in the treasure handling, which aligns with Injun Joe's actions of digging and taking money from the bag.",high
+Tom_Q1165,Hello!,Injun Joe,"The dialogue follows a description of Injun Joe digging with a knife and finding something, indicating he is the one who discovers the box and speaks the line 'Hello!' as he finds it.",high
+Tom_Q1166,What is it?,Injun Joe,"The dialogue follows Joe's actions as he digs with a knife and discovers something, leading to the question 'What is it?' which is likely directed at his comrade as they are both engaged in the treasure discovery.",medium
+Tom_Q1167,"Half-rotten plank—no, it’s a box, I believe. Here—bear a hand and we’ll
+see what it’s here for. Never mind, I’ve broke a hole.",Injun Joe,"The dialogue follows the description of Joe digging with a knife and finding something, and the context indicates he is the one who discovers the box and speaks about it. The phrase 'Half-rotten plank—no, it’s a box, I believe' suggests he is the one examining the find.",high
+Tom_Q1168,"Man, it’s money!",Injun Joe,"The dialogue occurs right after Joe's comrade mentions finding a box, and Joe is the one who first interacts with the box and expresses excitement about the contents, which aligns with the context of discovering treasure.",high
+Tom_Q1169,"We’ll make quick work of this. There’s an old rusty pick over amongst
+the weeds in the corner the other side of the fireplace—I saw it a
+minute ago.",Injun Joe,"The dialogue follows Injun Joe's actions and thoughts as he examines the pick and begins to use it, indicating he is the one directing the work to unearth the treasure.",high
+Tom_Q1171,"’Twas always said that Murrel’s gang used to be around here one
+summer,",Uncertain,"The TARGET DIALOGUE does not provide clear attribution to a specific character, as it is presented without a direct speaker tag or contextual clues that definitively identify the speaker.",low
+Tom_Q1173,"and this looks like it, I should say.",Injun Joe,"The dialogue follows Injun Joe's previous statement about the treasure and his assertion that it looks like it belongs to Murrel's gang, indicating he is the one speaking about the treasure.",high
+Tom_Q1174,Now you won’t need to do that job.,Injun Joe,"The surrounding dialogue indicates that Injun Joe is discussing plans involving revenge and the treasure, and the TARGET DIALOGUE fits within his context of asserting control over the situation.",high
+Tom_Q1175,"You don’t know me. Least you don’t know all about that thing. ’Tain’t
+robbery altogether—it’s _revenge_!",Injun Joe,"The dialogue reflects Injun Joe's motivations and intentions, particularly his focus on revenge, which aligns with his character's established traits in the narrative. The context also indicates a conversation about a robbery and revenge, which Injun Joe is deeply involved in.",high
+Tom_Q1176,"I’ll need your help in it. When it’s finished—then Texas. Go home
+to your Nance and your kids, and stand by till you hear from me.",Injun Joe,"The dialogue reflects Injun Joe's intent to involve the stranger in a plan that includes revenge, which aligns with his character's motivations and the context of the conversation about robbery and revenge.",high
+Tom_Q1177,Well—if you say so; what’ll we do with this—bury it again?,the stranger,"The dialogue follows a discussion about treasure and a job that involves revenge, indicating that the speaker is involved in the planning of the next steps regarding the treasure. The stranger's pragmatic approach to the situation aligns with the TARGET DIALOGUE's suggestion of burying the treasure again.",medium
+Tom_Q1178,"Yes. [Ravishing delight overhead.] _No_! by the great Sachem, no!
+[Profound distress overhead.] I’d nearly forgot. That pick had fresh
+earth on it! [The boys were sick with terror in a moment.] What business
+has a pick and a shovel here? What business with fresh earth on
+them? Who brought them here—and where are they gone? Have you heard
+anybody?—seen anybody? What! bury it again and leave them to come and
+see the ground disturbed? Not exactly—not exactly. We’ll take it to my
+den.",Injun Joe,"The dialogue expresses a sense of urgency and distress about the pick and shovel, which aligns with Injun Joe's character as he is involved in a plot that includes revenge and secrecy. The mention of 'fresh earth' and the need to take the treasure to his 'den' indicates his cautious and sinister nature.",high
+Tom_Q1179,"Why, of course! Might have thought of that before. You mean Number
+One?",Injun Joe,"The dialogue refers to 'Number One' and 'Number Two,' which aligns with Injun Joe's earlier conversation about hiding places. Additionally, the context indicates he is the one discussing the locations and tools, showing his authority in the situation.",high
+Tom_Q1180,No—Number Two—under the cross. The other place is bad—too common.,Injun Joe,"The dialogue refers to 'Number Two—under the cross,' indicating a specific location that Injun Joe is familiar with, and the surrounding context shows his leadership and decision-making in a tense situation.",high
+Tom_Q1181,All right. It’s nearly dark enough to start.,Injun Joe,"The TARGET DIALOGUE occurs just before Injun Joe is described as cautiously peeping out from the windows and questioning who could have brought the tools, indicating he is the one leading the conversation.",high
+Tom_Q1182,"Who could have brought those tools here? Do you reckon they can be
+upstairs?",Injun Joe,"The dialogue occurs in a tense moment where Injun Joe is questioning the presence of tools and the possibility of someone being upstairs, which aligns with his cautious and suspicious nature as he is peeping out from windows.",high
+Tom_Q1183,"Now what’s the use of all that? If it’s anybody, and they’re up there,
+let them _stay_ there—who cares? If they want to jump down, now, and get
+into trouble, who objects? It will be dark in fifteen minutes—and then
+let them follow us if they want to. I’m willing. In my opinion, whoever
+hove those things in here caught a sight of us and took us for ghosts or
+devils or something. I’ll bet they’re running yet.",Injun Joe,"The dialogue reflects Injun Joe's pragmatic and somewhat cynical attitude towards the situation, as he dismisses the potential presence of others upstairs and expresses a willingness to leave without concern for them. This aligns with his character as depicted in the surrounding narrative, where he is shown to be decisive and somewhat reckless.",high
+Tom_Q1249,"You’ll not get back till late. Perhaps you’d better stay all night with
+some of the girls that live near the ferry-landing, child.",Mrs. Thatcher,"The dialogue is a maternal suggestion regarding Becky’s plans for the night, which aligns with Mrs. Thatcher's role as a caring mother concerned about her daughter's safety.",high
+Tom_Q1251,Very well. And mind and behave yourself and don’t be any trouble.,Mrs. Thatcher,"The dialogue occurs right after Mrs. Thatcher tells Becky to stay with some girls near the ferry-landing, indicating she is the one giving instructions to her daughter.",high
+Tom_Q1258,Who’s ready for the cave?,Tom Sawyer,"The context describes a group of boys excitedly preparing for an adventure, and Tom is often the one to lead such activities, suggesting he would be the one to initiate the idea of exploring the cave.",medium
+Tom_Q1261,"Damn her, maybe she’s got company—there’s lights, late as it is.",Injun Joe,"The TARGET DIALOGUE is preceded by a low voice identified as Injun Joe's, and the context suggests he is discussing the presence of company near the Widow Douglas' grounds, indicating his intent and concern about potential witnesses.",high
+Tom_Q1262,I can’t see any.,Uncertain,"The TARGET DIALOGUE 'I can’t see any.' is spoken by a character whose identity is not clearly established in the surrounding context. The dialogue follows Injun Joe's remark and is attributed to a 'stranger,' but the specific identity of this stranger is not confirmed.",medium
+Tom_Q1264,"Because the bush is in your way. Now—this way—now you see, don’t you?",Injun Joe,"The TARGET DIALOGUE follows Injun Joe's previous remarks about revenge and his feelings towards the widow, indicating he is directing his words to the stranger about the situation.",high
+Tom_Q1265,"Yes. Well, there _is_ company there, I reckon. Better give it up.",Injun Joe,"The TARGET DIALOGUE follows Injun Joe's previous remarks about the presence of company and his intense feelings towards the widow's husband, indicating he is the one speaking about the situation.",high
+Tom_Q1266,"Give it up, and I just leaving this country forever! Give it up and
+maybe never have another chance. I tell you again, as I’ve told you
+before, I don’t care for her swag—you may have it. But her husband was
+rough on me—many times he was rough on me—and mainly he was the justice
+of the peace that jugged me for a vagrant. And that ain’t all. It ain’t
+a millionth part of it! He had me _horsewhipped_!—horsewhipped in
+front of the jail, like a nigger!—with all the town looking on!
+_Horsewhipped_!—do you understand? He took advantage of me and died. But
+I’ll take it out of _her_.",Injun Joe,"The TARGET DIALOGUE expresses a desire for revenge against a woman, specifically mentioning past grievances with her husband and detailing a violent plan, which aligns with Injun Joe's character and motivations in the narrative. The surrounding context indicates that he is speaking to another character about his intentions.",high
+Tom_Q1267,"Oh, don’t kill her! Don’t do that!",Uncertain,"The surrounding dialogue discusses violent intentions and revenge, but does not clearly attribute the TARGET DIALOGUE to a specific character. The speaker expresses a plea against killing, but the context does not provide enough information to definitively identify them.",low
+Tom_Q1268,"Kill? Who said anything about killing? I would kill _him_ if he was
+here; but not her. When you want to get revenge on a woman you don’t
+kill her—bosh! you go for her looks. You slit her nostrils—you notch her
+ears like a sow!",Uncertain,"The dialogue discusses revenge on a woman and mentions specific violent actions, but the surrounding context does not clearly identify the speaker. The character's motivations and intentions are evident, but without a clear attribution to a named character.",low
+Tom_Q1269,"By God, that’s—",Uncertain,"The surrounding dialogue does not provide clear attribution to a specific character for the TARGET DIALOGUE. The context involves a conversation about revenge and violence, but it is not explicitly linked to a named character.",low
+Tom_Q1270,"Keep your opinion to yourself! It will be safest for you. I’ll tie her
+to the bed. If she bleeds to death, is that my fault? I’ll not cry, if
+she does. My friend, you’ll help me in this thing—for _my_ sake—that’s
+why you’re here—I mightn’t be able alone. If you flinch, I’ll kill you.
+Do you understand that? And if I have to kill you, I’ll kill her—and
+then I reckon nobody’ll ever know much about who done this business.",Uncertain,"The dialogue expresses a violent intent and a plan involving tying someone to a bed, which suggests a character with malicious intent. However, the surrounding context does not provide a clear identification of the speaker, as it lacks specific attribution to a named character.",low
+Tom_Q1271,"Well, if it’s got to be done, let’s get at it. The quicker the
+better—I’m all in a shiver.",Uncertain,"The surrounding dialogue does not clearly attribute the TARGET DIALOGUE to a specific character, as it is part of a tense exchange involving multiple characters discussing a violent plan. The context does not provide enough information to definitively identify the speaker.",low
+Tom_Q1272,"Do it _now_? And company there? Look here—I’ll get suspicious of you,
+first thing you know. No—we’ll wait till the lights are out—there’s no
+hurry.",Uncertain,"The surrounding narrative does not provide clear identification of the speaker for the TARGET DIALOGUE, as it focuses on Huck's actions and feelings rather than naming the character who speaks.",low
+Tom_Q1273,What’s the row there? Who’s banging? What do you want?,Welshman,"The dialogue 'What’s the row there? Who’s banging? What do you want?' is spoken by the Welshman, who is responding to the banging at the door and questioning the identity of the person outside.",high
+Tom_Q1275,"Why, who are you?",Welshman,"The dialogue 'Why, who are you?' is spoken in response to Huck's urgent banging at the door, indicating that it is the Welshman who is questioning Huck's identity before letting him in.",high
+Tom_Q1277,"Huckleberry Finn, indeed! It ain’t a name to open many doors, I judge!
+But let him in, lads, and let’s see what’s the trouble.",the old man,"The dialogue follows Huck's urgent request to be let in, and the old man responds with a comment about Huck's name not being one that opens doors, indicating he is the one speaking. The context shows he is addressing Huck directly after he identifies himself.",high
+Tom_Q1280,"By George, he _has_ got something to tell, or he wouldn’t act so!",the old man,The dialogue follows the old man's inquiry about Huck's urgency and is consistent with his role as a protective figure who encourages Huck to share his news.,high
+Tom_Q1281,"out with it and nobody here’ll ever tell, lad.",the old man,"The old man is the one who encourages Huck to speak by saying 'out with it and nobody here’ll ever tell, lad,' indicating he is the one prompting Huck to share his information.",high
+Tom_Q1282,Who’s there!,old Welshman,"The response to Huck's call, 'It’s a name that can open this door night or day, lad!—and welcome!' indicates that the speaker is the old Welshman, who recognizes Huck and welcomes him in.",high
+Tom_Q1284,"It’s a name that can open this door night or day, lad!—and welcome!",the old Welshman,"The dialogue expresses a welcoming sentiment that aligns with the old Welshman's character, who is known for his hospitality towards Huck. The phrase 'It’s a name that can open this door night or day, lad!—and welcome!' indicates familiarity and warmth, suggesting it is spoken by someone who knows Huck well.",high
+Tom_Q1285,"Now, my boy, I hope you’re good and hungry, because breakfast will be
+ready as soon as the sun’s up, and we’ll have a piping hot one, too—make
+yourself easy about that! I and the boys hoped you’d turn up and stop
+here last night.",the old Welshman,"The dialogue expresses a welcoming tone and mentions preparing breakfast, which aligns with the old Welshman's role as a hospitable figure who is concerned for Huck's well-being after a frightening night.",high
+Tom_Q1288,"Well, poor chap, you do look as if you’d had a hard night of it—but
+there’s a bed here for you when you’ve had your breakfast. No, they
+ain’t dead, lad—we are sorry enough for that. You see we knew right
+where to put our hands on them, by your description; so we crept along
+on tiptoe till we got within fifteen feet of them—dark as a cellar that
+sumach path was—and just then I found I was going to sneeze. It was the
+meanest kind of luck! I tried to keep it back, but no use—’twas bound to
+come, and it did come! I was in the lead with my pistol raised, and when
+the sneeze started those scoundrels a-rustling to get out of the path,
+I sung out, ‘Fire boys!’ and blazed away at the place where the rustling
+was. So did the boys. But they were off in a jiffy, those villains, and
+we after them, down through the woods. I judge we never touched them.
+They fired a shot apiece as they started, but their bullets whizzed by
+and didn’t do us any harm. As soon as we lost the sound of their feet
+we quit chasing, and went down and stirred up the constables. They got a
+posse together, and went off to guard the river bank, and as soon as it
+is light the sheriff and a gang are going to beat up the woods. My boys
+will be with them presently. I wish we had some sort of description of
+those rascals—’twould help a good deal. But you couldn’t see what they
+were like, in the dark, lad, I suppose?",The Welshman,"The dialogue discusses the events of a recent encounter with criminals and expresses concern for Huck's safety, which aligns with the Welshman's role as a protector and authority figure in the narrative. The context indicates he is speaking to Huck, providing reassurance and information about the situation.",high
+Tom_Q1290,"Splendid! Describe them—describe them, my boy!",the old Welshman,"The old Welshman is the one who expresses excitement and urgency in the dialogue, asking for a description of the villains, which aligns with his role in the narrative as someone coordinating the response to the situation.",high
+Tom_Q1292,"That’s enough, lad, we know the men! Happened on them in the woods back
+of the widow’s one day, and they slunk away. Off with you, boys, and
+tell the sheriff—get your breakfast tomorrow morning!",Uncertain,"The dialogue does not provide a clear attribution to a specific character, as it follows a conversation without naming the speaker directly. The context involves a discussion about the men seen in the woods, but the speaker's identity remains ambiguous.",low
+Tom_Q1294,"All right if you say it, Huck, but you ought to have the credit of what
+you did.",the old Welshman,"The old Welshman is the only character present who would express approval of Huck's actions and suggest that he should receive credit for them, as indicated by the dialogue 'All right if you say it, Huck, but you ought to have the credit of what you did.'",high
+Tom_Q1296,They won’t tell—and I won’t. But why don’t you want it known?,the old Welshman,"The old Welshman is the only character present who would be asking Huck why he doesn't want it known that he blew the whistle on the men, as indicated by the context of the conversation about secrecy and Huck's reluctance to reveal his knowledge.",high
+Tom_Q1297,"How did you come to follow these fellows, lad? Were they looking
+suspicious?",the old Welshman,"The old Welshman asks Huck how he came to follow the fellows and if they were looking suspicious, indicating he is the one speaking in the TARGET DIALOGUE.",high
+Tom_Q1299,Could you see the rags by the light of the cigars?,Huck,"The dialogue follows Huck's previous thoughts and actions, where he is reflecting on the situation and trying to keep the old man from realizing who the Spaniard is. His response, 'Well, I don’t know—but somehow it seems as if I did,' indicates his uncertainty and aligns with Huck's character.",high
+Tom_Q1301,"Then they went on, and you—",Huck,The dialogue follows Huck's previous statement about following the two men and reflects his thought process as he tries to explain his actions. The context indicates that Huck is recounting his experience and trying to clarify what he saw.,high
+Tom_Q1303,What! The _deaf and dumb_ man said all that!,Welshman,"The Welshman is the one who responds to Huck's earlier dialogue about the Spaniard, indicating that he is aware of the situation and is trying to clarify Huck's mistake regarding the Spaniard's identity.",high
+Tom_Q1304,"My boy, don’t be afraid of me. I wouldn’t hurt a hair of your head for
+all the world. No—I’d protect you—I’d protect you. This Spaniard is
+not deaf and dumb; you’ve let that slip without intending it; you can’t
+cover that up now. You know something about that Spaniard that you want
+to keep dark. Now trust me—tell me what it is, and trust me—I won’t
+betray you.",the Welshman,"The dialogue indicates that the speaker is trying to reassure Huck and is aware of the situation regarding the Spaniard, suggesting a protective and inquisitive role. The context shows that the Welshman is trying to get information from Huck about the Spaniard, which aligns with his character as someone who is concerned and wants to help.",high
+Tom_Q1306,"It’s all plain enough, now. When you talked about notching ears and
+slitting noses I judged that that was your own embellishment, because
+white men don’t take that sort of revenge. But an Injun! That’s a
+different matter altogether.",Welshman,"The dialogue discusses the nature of revenge and references 'notching ears and slitting noses,' which aligns with the Welshman's earlier conversation about understanding the motivations behind such actions, particularly in relation to Injun Joe.",high
+Tom_Q1308,"Of burglar’s tools. Why, what’s the _matter_ with you?",Welshman,"The Welshman responds to Huck's stunned reaction with a question about what was the matter with him, indicating he is the one who spoke the TARGET DIALOGUE.",high
+Tom_Q1309,"Yes, burglar’s tools. That appears to relieve you a good deal. But what
+did give you that turn? What were _you_ expecting we’d found?",Welshman,"The Welshman is the one who responds to Huck's stunned reaction about the discovery of burglar's tools, asking him what he was expecting to find. The context indicates that the Welshman is inquiring about Huck's reaction, which aligns with the TARGET DIALOGUE.",high
+Tom_Q1311,"Poor old chap, you’re white and jaded—you ain’t well a bit—no wonder
+you’re a little flighty and off your balance. But you’ll come out of it.
+Rest and sleep will fetch you out all right, I hope.",Uncertain,"The dialogue does not provide clear attribution to a specific character, and the surrounding context does not specify who is speaking. The focus is on Huck's internal thoughts and feelings rather than on the speaker of the dialogue.",low
+Tom_Q1312,"Don’t say a word about it, madam. There’s another that you’re more
+beholden to than you are to me and my boys, maybe, but he don’t allow me
+to tell his name. We wouldn’t have been there but for him.",Welshman,"The Welshman is the one recounting the events and expressing gratitude on behalf of himself and his boys, indicating that there is another person to whom the widow is more beholden, which aligns with his role in the narrative.",high
+Tom_Q1313,"I went to sleep reading in bed and slept straight through all that
+noise. Why didn’t you come and wake me?",Mrs. Harper,"The dialogue expresses concern about being woken up during the noise, which aligns with Mrs. Harper's character as a protective mother. The context suggests she is inquiring about her safety after the events that transpired.",high
+Tom_Q1314,"We judged it warn’t worth while. Those fellows warn’t likely to come
+again—they hadn’t any tools left to work with, and what was the use of
+waking you up and scaring you to death? My three negro men stood guard
+at your house all the rest of the night. They’ve just come back.",Uncertain,"The dialogue does not provide clear attribution to a specific character, and the surrounding context does not identify who is speaking. The mention of 'my three negro men' suggests familiarity with the situation, but it is not enough to definitively attribute the dialogue.",low
+Tom_Q1315,"Is my Becky going to sleep all day? I just expected she would be tired
+to death.",Mrs. Thatcher,"The dialogue begins with a question about Becky, indicating concern for her well-being, which aligns with Mrs. Thatcher's role as Becky's mother.",high
+Tom_Q1316,Your Becky?,Mrs. Harper,"Mrs. Harper responds to Mrs. Thatcher's inquiry about Becky, indicating she is the one who said 'Your Becky?' in surprise.",high
+Tom_Q1317,"Yes,",Mrs. Thatcher,"Mrs. Thatcher expresses concern about her daughter Becky, indicating she expected her to be tired after a long night, which aligns with the context of her dialogue about Becky.",high
+Tom_Q1318,didn’t she stay with you last night?,Mrs. Thatcher,"The dialogue occurs in a context where Mrs. Thatcher is speaking to Mrs. Harper about her daughter Becky, indicating her concern and confusion about Becky's whereabouts.",high
+Tom_Q1319,"Why, no.",Mrs. Thatcher,"Mrs. Thatcher is the one who expresses concern about her daughter Becky and is surprised to learn that she did not stay with Mrs. Harper, leading to the response 'Why, no.'",high
+Tom_Q1321,"He didn’t stay with us,",Mrs. Harper,"The dialogue follows Mrs. Thatcher's inquiry about her daughter Becky, and Mrs. Harper responds to the question about whether Becky stayed with them, indicating her concern and confusion.",high
+Tom_Q1322,"Joe Harper, have you seen my Tom this morning?",Aunt Polly,"The dialogue occurs in a context where Aunt Polly is actively searching for Tom and is concerned about his whereabouts, as indicated by her previous dialogue about Tom being missing.",high
+Tom_Q1323,No’m.,Joe Harper,"The dialogue occurs in a context where Aunt Polly is asking Joe Harper if he has seen Tom. Joe responds with 'No’m,' indicating he has not seen Tom, which aligns with his role as a character who is being questioned about Tom's whereabouts.",high
+Tom_Q1324,When did you see him last?,Aunt Polly,The dialogue occurs in a context where Aunt Polly is actively searching for Tom and is concerned about his whereabouts. The question 'When did you see him last?' aligns with her anxious demeanor and her role as Tom's guardian.,high
+Tom_Q1325,Send more candles—and send food.,Judge Thatcher,"The context indicates that Judge Thatcher is sending messages from the cave, and the TARGET DIALOGUE is a request for supplies, which aligns with the urgency of the situation he is in.",medium
+Tom_Q1326,"You can depend on it. That’s the Lord’s mark. He don’t leave it off.
+He never does. Puts it somewhere on every creature that comes from his
+hands.",Widow Douglas,"The Widow Douglas is taking charge of Huck's care and expresses her belief in Huck's inherent goodness, which aligns with the sentiment of the TARGET DIALOGUE about the Lord's mark on every creature.",high
+Tom_Q1328,"Yes,",the widow,"The dialogue is followed by the widow's response, 'Huck started up in bed, wild-eyed...' indicating that the widow is the one speaking before Huck's reaction.",high
+Tom_Q1330,"Liquor!—and the place has been shut up. Lie down, child—what a turn you
+did give me!",the widow,"The widow is the only character present in the dialogue immediately preceding the TARGET DIALOGUE, and she is responding to Huck's question about the tavern, indicating she is the one who informs him about the liquor.",high
+Tom_Q1332,"Hush, hush, child, hush! I’ve told you
+before, you must _not_ talk. You are very, very sick!",the widow,"The widow is the only character mentioned in the surrounding context who is interacting with Huck and is concerned about his health, indicating she is the one speaking to him in a comforting manner.",high
+Tom_Q1382,Turn out! turn out! they’re found! they’re found!,Uncertain,"The dialogue does not provide clear attribution to a specific character, as it is presented in a collective context with no individual speaker identified.",low
+Tom_Q1383,"because,",Uncertain,"The TARGET DIALOGUE 'because,' does not provide enough context or attribution to clearly identify the speaker, as it is part of a larger conversation that is not fully presented.",low
+Tom_Q1384,"you are
+five miles down the river below the valley the cave is in",Uncertain,"The dialogue does not provide clear attribution to a specific character, and the surrounding narrative focuses on Tom and Becky's experience without indicating who is speaking.",low
+Tom_Q1386,"Well, there are others just like you, Tom, I’ve not the least doubt.
+But we have taken care of that. Nobody will get lost in that cave any
+more.",Judge Thatcher,"The dialogue is preceded by a statement from the Judge, who is addressing Tom and discussing the cave. The context indicates that the Judge is reassuring Tom about the cave's safety, which aligns with the speaker's role as a figure of authority in this situation.",high
+Tom_Q1388,"Because I had its big door sheathed with boiler iron two weeks ago, and
+triple-locked—and I’ve got the keys.",Judge Thatcher,"The dialogue occurs after Judge Thatcher discusses the cave and mentions that he has taken precautions to prevent anyone from getting lost again, indicating he is the one speaking about the door being sheathed and locked.",high
+Tom_Q1389,"What’s the matter, boy! Here, run, somebody! Fetch a glass of water!",Judge Thatcher,"The dialogue occurs immediately after the Judge expresses concern for Tom's pale appearance and is followed by his actions to help Tom recover, indicating he is the one speaking.",high
+Tom_Q1390,"Ah, now you’re all right. What was the matter with you, Tom?",Judge Thatcher,"The dialogue follows the Judge's concern for Tom after he turns pale, and the Judge is the one who asks what was the matter with Tom, indicating he is the one speaking in the TARGET DIALOGUE.",high
+Tom_Q1460,"Hallo, who’s that?",Welshman,"The dialogue 'Hallo, who’s that?' is spoken by the Welshman as he steps out to address Tom and Huck, indicating he is the one who sees them and is inquiring about their identity.",high
+Tom_Q1462,"Good! Come along with me, boys, you are keeping everybody waiting.
+Here—hurry up, trot ahead—I’ll haul the wagon for you. Why, it’s not as
+light as it might be. Got bricks in it?—or old metal?",Mr. Jones,"The dialogue is directed towards Huck and Tom, urging them to hurry along and indicating that they are keeping everyone waiting. The context suggests that Mr. Jones is the one speaking as he interacts with the boys and expresses familiarity with their situation.",high
+Tom_Q1464,"I judged so; the boys in this town will take more trouble and fool away
+more time hunting up six bits’ worth of old iron to sell to the foundry
+than they would to make twice the money at regular work. But that’s
+human nature—hurry along, hurry along!",Mr. Jones,"The dialogue discusses the behavior of boys in town regarding their efforts to collect old iron, which aligns with Mr. Jones's role as an adult observing and commenting on the actions of the boys, specifically Tom and Huck.",high
+Tom_Q1465,"Never mind; you’ll see, when we get to the Widow Douglas’.",Mr. Jones,"The dialogue occurs after the Welshman, identified as Mr. Jones, speaks to Tom and Huck about their hurry to get to the Widow Douglas. The phrase 'Never mind; you’ll see, when we get to the Widow Douglas’' indicates that it is Mr. Jones who is speaking, as he is the one leading the boys and has just been asked about the hurry.",high
+Tom_Q1467,"Well, I don’t know, Huck, my boy. I don’t know about that. Ain’t you
+and the widow good friends?",Mr. Jones,"The dialogue is preceded by Mr. Jones speaking to Huck about the widow, and the context indicates he is addressing Huck directly, asking about his relationship with the widow.",high
+Tom_Q1469,"All right, then. What do you want to be afraid for?",Mr. Jones,"The dialogue occurs in a context where Mr. Jones is speaking to Huck and Tom about their situation, and the phrase 'All right, then. What do you want to be afraid for?' aligns with his role as an adult addressing the boys' apprehensions.",high
+Tom_Q1470,"Tom wasn’t at home, yet, so I gave him up; but I stumbled on him and
+Huck right at my door, and so I just brought them along in a hurry.",Mr. Jones,"The dialogue occurs right after Mr. Jones is mentioned as having brought Tom and Huck along, indicating he is the one speaking about finding them at his door.",high
+Tom_Q1471,"And you did just right,",the widow,"The dialogue follows the widow's invitation to the boys to wash and dress themselves, indicating her role in the conversation and her authority in the situation.",high
+Tom_Q1472,"Come with me, boys.",the widow,"The widow is the only character mentioned in the surrounding context who is actively engaging with the boys and giving them instructions, as indicated by her previous dialogue and actions.",high
+Tom_Q1473,"Now wash and dress yourselves. Here are two new suits of
+clothes—shirts, socks, everything complete. They’re Huck’s—no, no
+thanks, Huck—Mr. Jones bought one and I the other. But they’ll fit both
+of you. Get into them. We’ll wait—come down when you are slicked up
+enough.",the widow,"The widow is the one who takes the boys to a bedchamber and instructs them to wash and dress themselves, providing them with new clothes. The dialogue directly follows her actions and is consistent with her role as a caretaker in this scene.",high
+Tom_Q1478,"Tom,",Sid,"The dialogue follows Sid's appearance and he addresses Tom directly, indicating he is concerned about Tom's absence and the state of his clothes, which aligns with Sid's character as a more responsible and concerned figure in the household.",high
+Tom_Q1479,"auntie has been waiting for you all the afternoon. Mary
+got your Sunday clothes ready, and everybody’s been fretting about you.
+Say—ain’t this grease and clay, on your clothes?",Sid,"The dialogue begins with 'Tom,' indicating that the speaker is addressing Tom, and the context suggests that Sid is concerned about Tom's whereabouts and the state of his clothes.",high
+Tom_Q1481,"It’s one of the widow’s parties that she’s always having. This time
+it’s for the Welshman and his sons, on account of that scrape they
+helped her out of the other night. And say—I can tell you something, if
+you want to know.",Sid,"The dialogue mentions 'Sid appeared' and follows with Sid speaking about the widow's party and Mr. Jones, indicating he is the one providing this information.",high
+Tom_Q1483,"Why, old Mr. Jones is going to try to spring something on the people
+here tonight, but I overheard him tell auntie today about it, as a
+secret, but I reckon it’s not much of a secret now. Everybody knows—the
+widow, too, for all she tries to let on she don’t. Mr. Jones was bound
+Huck should be here—couldn’t get along with his grand secret without
+Huck, you know!",Sid,"The dialogue follows Sid's earlier statement about the widow's party and Mr. Jones, and the context indicates that he is the one revealing the secret about Huck tracking the robbers.",high
+Tom_Q1485,"About Huck tracking the robbers to the widow’s. I reckon Mr. Jones was
+going to make a grand time over his surprise, but I bet you it will drop
+pretty flat.",Sid,"The dialogue follows a conversation where Tom is questioning Sid about a secret related to Huck. Sid's response about Huck tracking the robbers indicates he is the one sharing information, consistent with his character's tendency to be involved in the gossip and mischief.",high
+Tom_Q1487,"Oh, never mind who it was. _Somebody_ told—that’s enough.",Sid,"The dialogue occurs in a context where Sid is being questioned about revealing a secret, and his response indicates a dismissive attitude towards the inquiry about who told the secret, which aligns with Sid's character as portrayed in the surrounding narrative.",high
+Tom_Q1493,"He—well, there ain’t ever any
+making of that boy out. I never—",Aunt Polly,"The dialogue occurs right after Aunt Polly expresses concern about Tom's behavior, indicating her familiarity with him and her role as a caretaker. The phrase 'He—well, there ain’t ever any making of that boy out. I never—' suggests a maternal frustration or confusion about Tom's actions, which aligns with Aunt Polly's character.",high
+Tom_Q1495,"I thought I had fixed up a little surprise for this occasion, but it
+don’t amount to anything now. This one makes it sing mighty small, I’m
+willing to allow.",Mr. Jones,"The dialogue follows a statement made by Mr. Jones, who is responding to the surprising revelation of the money Tom and Huck have found. The context indicates that he is reflecting on his own previous plans in light of the unexpected event.",high
